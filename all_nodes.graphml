@@ -1,0 +1,4178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="category" attr.type="string" for="node" id="d1" />
+  <key attr.name="bipartite" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="BOB MARLEY">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="FRENCH CONNECTION">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PEGU CLUB">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="TEQUILA SURPRISE">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="CLOVE COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MIDNIGHT MANX">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KENTUCKY COLONEL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KENTUCKY B AND B">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINA COLADA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="POPPED CHERRY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DUBONNET COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FUZZY ASSHOLE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="IRISH COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="LADY LOVE FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BROOKLYN">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="JACK ROSE COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SEA BREEZE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZOKSEL">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="HIGHLAND FLING COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="AFFAIR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CHOCOLATE MILK">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="RUM COBBLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SCOOTER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZIMADORI ZINGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="RUM TODDY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CAIPIRISSIMA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FROZEN PINEAPPLE DAIQUIRI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ORANGE OASIS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KIOKI COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="ROYAL GIN FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SPACE ODYSSEY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MOCHA-BERRY">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="CITY SLICKER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ENGLISH HIGHBALL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZAMBEER">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="STINGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FRUIT FLIP-FLOP">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="SPRITZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINK GIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SPICE 75">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="SHERRY EGGNOG">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINK LADY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FUNK AND SOUL">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="YELLOW BIRD">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ALMERIA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINEAPPLE PALOMA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="TALOS COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="GIN SWIZZLE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RASPBERRY JULEP">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="RAIL SPLITTER">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="LASSI - SWEET">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="QUARTER DECK COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ARTILLERY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GOLDEN DREAM">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ESPRESSO MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="RUM OLD-FASHIONED">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="NEGRONI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JAMAICA KISS">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="LEMOUROUDJI">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="BIG RED">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="MUNICH MULE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ORANGE PUSH-UP">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZENMEISTER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SAZERAC">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GIMLET">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="PINK PENOCHA">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="SNOWDAY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="BLACKTHORN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="THE PHILOSOPHER">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="SOL Y SOMBRA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JAPANESE FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZOMBIE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="KISS ME QUICK">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ICED COFFEE FILLIP">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="VESPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="AVIATION">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="CREME DE MENTHE">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="IRISH SPRING">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="QUEEN CHARLOTTE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="B-53">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="SMUT">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="GRIM REAPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VICTOR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GODMOTHER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BIBLE BELT">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="TEXAS RATTLESNAKE">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="BORA BORA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="AFTER SEX">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MANHATTAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="APELLO">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="FLAMING LAMBORGHINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="WHITE WINE SANGRIA">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="A. J.">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DRY MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="MIAMI VICE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="JUST A MOONMINT">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="FLYING SCOTCHMAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JOHN COLLINS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KIWI PAPAYA SMOOTHIE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="RUM SCREWDRIVER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WHISKEY SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DOWNSHIFT">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="BUMBLE BEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="BARRACUDA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="HONEY BEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="NEW YORK SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WINE PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="FRUIT COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="GREYHOUND">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ORANGEADE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="HOT TODDY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="TOM COLLINS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GLUEHWEIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="BROADSIDE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="DANBOOKA">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="DERBY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TURF COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SALTY DOG">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PENICILLIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="YOGHURT COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="GIN SQUIRT">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WINTER PALOMA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="VODKA MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="OWEN'S GRANDMOTHER'S REVENGE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DARK CAIPIRINHA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="PORT WINE FLIP">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VODKA FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="GG">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VICTORY COLLINS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PURE PASSION">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="HOT CHOCOLATE TO DIE FOR">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocoa</data>
+    </node>
+    <node id="MARGARITA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CAMPARI BEER">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="KIWI LEMON">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GRAND BLUE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FIGGY THYME">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="DIESEL">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="MOSCOW MULE">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="PORT WINE COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TEQUILA SLAMMER">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="GRIZZLY BEAR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ROSEMARY BLUE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="GIN SMASH">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ACID">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="GRASSHOPPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ZIEMES MARTINI APFELSAFT">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="EMPELLÓN COCINA'S FAT-WASHED MEZCAL">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ADDISON">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="JITTERBUG">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="FROZEN DAIQUIRI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINK MOON">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="NUKED HOT CHOCOLATE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocoa</data>
+    </node>
+    <node id="ALEXANDER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="IRISH CREAM">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="DRAGONFLY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SWEET TOOTH">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="MARY PICKFORD">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="LONG VODKA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MAI TAI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KIR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="POPPY COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SWEET SANGRIA">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="EGG CREAM">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="HERBAL FLAME">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="PALOMA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="RUSTY NAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KURANT TEA">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="EGG NOG #4">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="B-52">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="HARVEY WALLBANGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="AT&amp;T">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DARK AND STORMY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PYSCH VITAMIN LIGHT">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SIDECAR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="OLD FASHIONED">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="CLOVER CLUB">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MOTHER'S MILK">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="BELLINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DEATH IN THE AFTERNOON">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="THE JIMMY CONWAY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ZIZI COIN-COIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="HAWAIIAN COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JELLY BEAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="ICE PICK">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TURKEYBALL">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="PINEAPPLE GINGERALE SMOOTHIE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="OREO MUDSLIDE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="QUEEN BEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BRIGADIER">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="NUTTY IRISHMAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="ALGONQUIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CHICAGO FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FROSÉ">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ORANGE WHIP">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="RUM RUNNER">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="JAM DONUT">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="IPAMENA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="OLD PAL">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="FRISCO SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PARADISE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="HOT CREAMY BUSH">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="CASINO ROYALE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PASSION FRUIT MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="RED SNAPPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="ZIMA BLASTER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LONDON TOWN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JAMAICAN COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="SCOTCH SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KOOL-AID SLAMMER">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="CUBA LIBRE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ENGLISH ROSE COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CHOCOLATE DRINK">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocoa</data>
+    </node>
+    <node id="DUCHAMP'S PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="SNOWBALL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BALMORAL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ICED COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="NEW YORK LEMONADE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="GREEN GOBLIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="DAIQUIRI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="AUTODAFÉ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GIN SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TUXEDO COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TIPPERARY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="BUBBLE GUM">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="FAHRENHEIT 5000">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="HORSE'S NECK">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SAN FRANCISCO">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GIN FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="HAPPY SKIPPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SANGRIA">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ZINGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="PLANTER'S PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="BUCCANEER">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="ZIPPY'S REVENGE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="KIR ROYALE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DIRTY NIPPLE">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="VETERAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SHARK ATTACK">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="MASALA CHAI">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="LASSI RAITA">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="BLOODY MARY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="JACK'S VANILLA COKE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="LONG ISLAND ICED TEA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BOSTON SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MARTINEZ 2">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="COFFEE LIQUEUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="VESUVIO">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ABILENE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GIN SLING">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KAMIKAZE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DARKWOOD SLING">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="HUNTER'S MOON">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="PISCO SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="QUEEN ELIZABETH">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ROSE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="CAFE SAVOY">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="FLANDER'S FLAKE-OUT">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ABC">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="GIN RICKEY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="FOXY LADY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LAZY COCONUT PALOMA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="DRY ROB ROY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TIA-MARIA">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="H.D.">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="ACE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="GAGLIARDO">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="HOLLOWEEN PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="LIMEADE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="JACKHAMMER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="IRISH CURDLING COW">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="COKE AND DROPS">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="CAIPIRINHA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ACAPULCO">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ALLEGHENY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WHITE RUSSIAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FRUIT SHAKE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="ROYAL FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FRAPPÉ">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="JEWEL OF THE NILE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="COFFEE-VODKA">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="LASSI KHARA">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="KARSK">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VERMOUTH CASSIS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WAIKIKI BEACHCOMBER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ROYAL BITCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="BLUEBIRD">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TENNESEE MUD">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="SHERRY FLIP">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RUM PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="WHITE LADY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LEMON SHOT">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="MELYA">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="QUAKER'S COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="QUICK F**K">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="GIN COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MOJITO">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ELDERFLOWER CAIPIRINHA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="PORTO FLIP">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="HEMINGWAY SPECIAL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FLYING DUTCHMAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BRAIN FART">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="ESPRESSO RUMTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="TOMATO TANG">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="LASSI - A SOUTH INDIAN DRINK">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="WHITECAP MARGARITA">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="HOMEMADE KAHLUA">
+      <data key="d0">Drink</data>
+      <data key="d1">Homemade Liqueur</data>
+    </node>
+    <node id="CHERRY RUM">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GRASS SKIRT">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="STONE SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LIMONA CORONA">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="THAI COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="RUM COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MOJITO EXTRA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="LONE TREE COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BLUE LAGOON">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="AFFINITY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="EGG NOG - HEALTHY">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="WINTER RITA">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="FROZEN MINT DAIQUIRI">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GODCHILD">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PINK PANTY PULLDOWNS">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RADIOACTIVE LONG ISLAND ICED TEA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MIDNIGHT MINT">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="BRAMBLE">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="COSMOPOLITAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="AFTERNOON">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="KILL THE COLD SMOOTHIE">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="ADAM">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="SHOT-GUN">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="ZORBATINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="CITRUS COKE">
+      <data key="d0">Drink</data>
+      <data key="d1">Soft Drink / Soda</data>
+    </node>
+    <node id="FLAMING DR. PEPPER">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="AVALON">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GODFATHER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="PORT AND STARBOARD">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="KOOL FIRST AID">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="GIN TODDY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RASPBERRY COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="WINE COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="A1">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="TEQUILA SUNRISE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="RUM MILK PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="APPLECAR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FREDDY KRUGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="CASA BLANCA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="BOXCAR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VALENCIA COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LEMON DROP">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="JELLO SHOTS">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="SCREWDRIVER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TEXAS SLING">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="CUBA LIBRA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VODKA RUSSIAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FRENCH MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="DIRTY MARTINI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="MINT JULEP">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LONE TREE COOLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ORGASM">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="IMPERIAL COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="VAMPIRO">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="OATMEAL COOKIE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="THRILLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RADLER">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="DAMNED IF YOU DO">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="IMPERIAL FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="NATIONAL AQUARIUM">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VAN VLEET">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ORANGE CRUSH">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="RUBY TUESDAY">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="LUNCH BOX">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="MULLED WINE">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="DRINKING CHOCOLATE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocoa</data>
+    </node>
+    <node id="MONKEY WRENCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MONKEY GLAND">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="WHISKY MAC">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LORD AND LADY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="ORANGE ROSEMARY COLLINS">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ROYAL FLUSH">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="HAVANA COCKTAIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="RUSSIAN SPRING PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="THE LAST WORD">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="THE GALAH">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="QUICK-SAND">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TEQUILA SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="HALLOWEEN PUNCH">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="SWEET BANANAS">
+      <data key="d0">Drink</data>
+      <data key="d1">Milk / Float / Shake</data>
+    </node>
+    <node id="KOOL-AID SHOT">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="BOOMERANG">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MICHELADA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="CORN N OIL">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="EGG-NOG - CLASSIC COOKED">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="FRENCH 75">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="AFTERGLOW">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="LASSI - MANGO">
+      <data key="d0">Drink</data>
+      <data key="d1">Other/Unknown</data>
+    </node>
+    <node id="ZORRO">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="BIJOU">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="THE LAVERSTOKE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="MIMOSA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="IRISH RUSSIAN">
+      <data key="d0">Drink</data>
+      <data key="d1">Beer</data>
+    </node>
+    <node id="CASINO">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="VODKA AND TONIC">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MUDSLINGER">
+      <data key="d0">Drink</data>
+      <data key="d1">Punch / Party Drink</data>
+    </node>
+    <node id="CORPSE REVIVER">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="THAI ICED TEA">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="QUENTIN">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="LOCH LOMOND">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="FRENCH NEGRONI">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="ZIPPERHEAD">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="RUM SOUR">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="GIN DAISY">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="TEQUILA FIZZ">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="THAI ICED COFFEE">
+      <data key="d0">Drink</data>
+      <data key="d1">Coffee / Tea</data>
+    </node>
+    <node id="LONG ISLAND TEA">
+      <data key="d0">Drink</data>
+      <data key="d1">Ordinary Drink</data>
+    </node>
+    <node id="MORANGUITO">
+      <data key="d0">Drink</data>
+      <data key="d1">Shot</data>
+    </node>
+    <node id="ORANGE SCENTED HOT CHOCOLATE">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocoa</data>
+    </node>
+    <node id="CREAM SODA">
+      <data key="d0">Drink</data>
+      <data key="d1">Cocktail</data>
+    </node>
+    <node id="prosecco">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="carbonated water">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="honey syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="egg white">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="bourbon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lime peel">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="black sambuca">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="daiquiri mix">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange bitters">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cayenne pepper">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apple brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="banana liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="yukon jack">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vanilla ice-cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="whiskey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="honey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peach bitters">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coca-cola">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tea">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="salt">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="papaya">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apple juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="light cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pepsi cola">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="mango">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="club soda">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="jello">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sherbet">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherry heering">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="half-and-half">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange peel">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="asafoetida">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="corona">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cream of coconut">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lemonade">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="worcestershire sauce">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="figs">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherry">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apfelkorn">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sugar syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cider">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rose">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sarsaparilla">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cardamom">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="jim beam">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sour mix">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="port">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="maple syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="whipped cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="bitter lemon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="schweppes russchian">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="olive">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="mezcal">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peppermint extract">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="green chartreuse">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ruby port">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="151 proof rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="light rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lillet">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grape juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="strawberry schnapps">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lemon-lime soda">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="raspberry syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="mountain dew">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="chocolate">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="kool-aid">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ginger">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grapefruit juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tabasco sauce">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="creme de mure">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apricot nectar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="demerara sugar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="bitters">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grand marnier">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="irish cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="jack daniels">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="fruit juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="hot sauce">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ginger beer">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rosemary syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lager">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blackberry brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pisang ambon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="mint">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blackcurrant cordial">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="st. germain">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="anisette">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lemon juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="whipping cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="campari">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rosemary">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="marshmallows">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="scotch">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="espresso">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="fruit">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="southern comfort">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sambuca">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cinnamon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="heavy cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apple">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lemon peel">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="absinthe">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pina colada mix">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="hot damn">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="anis">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peach schnapps">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grape soda">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherries">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherry juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sprite">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="wormwood">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="wild turkey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blackberries">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sirup of roses">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="guinness stout">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="passion fruit juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orgeat syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="powdered sugar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="gin">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grenadine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="benedictine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coffee">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tonic water">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="bacardi limon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="wine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="beer">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cumin seed">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="amaretto">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sweet vermouth">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cloves">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="food coloring">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cranberry vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="kiwi">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="oreo cookie">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="celery salt">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pomegranate juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="kiwi liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="soy sauce">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pineapple">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="chambord raspberry liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pineapple juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="mint syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="creme de cassis">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="brown sugar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="chocolate liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="bailey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="galliano">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="dark rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peach nectar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="irish whiskey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coffee liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pineapple syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="nutmeg">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherry brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blended whiskey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coriander">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ginger ale">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="añejo rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blackstrap rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="yoghurt">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="banana">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="absolut vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cucumber">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="goldschlager">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="condensed milk">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="dr. pepper">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="grain alcohol">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cointreau">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rosso vermouth">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sweet and sour">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="passion fruit syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lavender">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="gold rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="allspice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="zima">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="yellow chartreuse">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cranberry juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coconut milk">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ricard">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="butter">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pisco">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coconut liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="fruit punch">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange spiral">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sugar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="red chili flakes">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="angostura bitters">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="maraschino liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="hot chocolate">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="caramel coloring">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lemon">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="white wine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="triple sec">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lime vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peychaud bitters">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="drambuie">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="strawberries">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="everclear">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="chocolate syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lillet blanc">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="fresh lime juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tomato juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="midori melon liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blue curacao">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="absolut kurant">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="carbonated soft drink">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="butterscotch schnapps">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="root beer">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="spiced rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="amaro montenegro">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="surge">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="orange curacao">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="whisky">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cocoa powder">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="elderflower cordial">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="crown royal">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="fresca">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pepper">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="white rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="milk">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="malibu rum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="baileys irish cream">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="aperol">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lime juice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vanilla syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="absolut citron">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="egg yolk">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="raspberry liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="lime">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="jägermeister">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coffee brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="black pepper">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="7-up">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="melon liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="agave syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pernod">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="apricot brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="maraschino cherry">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="firewater">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="jagermeister">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="dubonnet rouge">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="thyme">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peach vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="islay single malt scotch">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="falernum">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tequila">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cherry liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sherry">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vermouth">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vanilla extract">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="egg">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="iced tea">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="creme de banane">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peach brandy">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ginger syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="kahlua">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="champagne">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="red wine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="godiva liqueur">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="coconut syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="vanilla">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blended scotch">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tia maria">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="applejack">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="soda water">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="peachtree schnapps">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cognac">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="water">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="absolut peppar">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="corn syrup">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="frangelico">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="olive brine">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="tennessee whiskey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="raspberry vodka">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="cachaca">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="limeade">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="white creme de menthe">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="blood orange">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="dry vermouth">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="advocaat">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ouzo">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="creme de cacao">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="ice">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="sloe gin">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="pink lemonade">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="passoa">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="rye whiskey">
+      <data key="d0">Ingredient</data>
+    </node>
+    <node id="green creme de menthe">
+      <data key="d0">Ingredient</data>
+    </node>
+    <edge source="BOB MARLEY" target="midori melon liqueur" />
+    <edge source="BOB MARLEY" target="jägermeister" />
+    <edge source="BOB MARLEY" target="goldschlager" />
+    <edge source="FRENCH CONNECTION" target="cognac" />
+    <edge source="FRENCH CONNECTION" target="amaretto" />
+    <edge source="PEGU CLUB" target="gin" />
+    <edge source="PEGU CLUB" target="orange curacao" />
+    <edge source="PEGU CLUB" target="lime juice" />
+    <edge source="PEGU CLUB" target="angostura bitters" />
+    <edge source="PEGU CLUB" target="orange bitters" />
+    <edge source="TEQUILA SURPRISE" target="tequila" />
+    <edge source="TEQUILA SURPRISE" target="tabasco sauce" />
+    <edge source="CLOVE COCKTAIL" target="sweet vermouth" />
+    <edge source="CLOVE COCKTAIL" target="sloe gin" />
+    <edge source="CLOVE COCKTAIL" target="wine" />
+    <edge source="MIDNIGHT MANX" target="kahlua" />
+    <edge source="MIDNIGHT MANX" target="baileys irish cream" />
+    <edge source="MIDNIGHT MANX" target="goldschlager" />
+    <edge source="MIDNIGHT MANX" target="heavy cream" />
+    <edge source="MIDNIGHT MANX" target="coffee" />
+    <edge source="KENTUCKY COLONEL" target="bourbon" />
+    <edge source="KENTUCKY COLONEL" target="benedictine" />
+    <edge source="KENTUCKY COLONEL" target="lemon peel" />
+    <edge source="KENTUCKY B AND B" target="bourbon" />
+    <edge source="KENTUCKY B AND B" target="benedictine" />
+    <edge source="PINA COLADA" target="light rum" />
+    <edge source="PINA COLADA" target="coconut milk" />
+    <edge source="PINA COLADA" target="pineapple" />
+    <edge source="POPPED CHERRY" target="vodka" />
+    <edge source="POPPED CHERRY" target="cherry liqueur" />
+    <edge source="POPPED CHERRY" target="cranberry juice" />
+    <edge source="POPPED CHERRY" target="orange juice" />
+    <edge source="DUBONNET COCKTAIL" target="dubonnet rouge" />
+    <edge source="DUBONNET COCKTAIL" target="gin" />
+    <edge source="DUBONNET COCKTAIL" target="bitters" />
+    <edge source="DUBONNET COCKTAIL" target="lemon peel" />
+    <edge source="FUZZY ASSHOLE" target="coffee" />
+    <edge source="FUZZY ASSHOLE" target="peach schnapps" />
+    <edge source="IRISH COFFEE" target="irish whiskey" />
+    <edge source="IRISH COFFEE" target="coffee" />
+    <edge source="IRISH COFFEE" target="sugar" />
+    <edge source="IRISH COFFEE" target="whipped cream" />
+    <edge source="LADY LOVE FIZZ" target="gin" />
+    <edge source="LADY LOVE FIZZ" target="light cream" />
+    <edge source="LADY LOVE FIZZ" target="powdered sugar" />
+    <edge source="LADY LOVE FIZZ" target="lemon" />
+    <edge source="LADY LOVE FIZZ" target="egg white" />
+    <edge source="LADY LOVE FIZZ" target="carbonated water" />
+    <edge source="BROOKLYN" target="rye whiskey" />
+    <edge source="BROOKLYN" target="dry vermouth" />
+    <edge source="BROOKLYN" target="maraschino liqueur" />
+    <edge source="BROOKLYN" target="angostura bitters" />
+    <edge source="BROOKLYN" target="maraschino cherry" />
+    <edge source="JACK ROSE COCKTAIL" target="apple brandy" />
+    <edge source="JACK ROSE COCKTAIL" target="grenadine" />
+    <edge source="JACK ROSE COCKTAIL" target="lime" />
+    <edge source="SEA BREEZE" target="vodka" />
+    <edge source="SEA BREEZE" target="cranberry juice" />
+    <edge source="SEA BREEZE" target="grapefruit juice" />
+    <edge source="ZOKSEL" target="beer" />
+    <edge source="ZOKSEL" target="root beer" />
+    <edge source="ZOKSEL" target="lemonade" />
+    <edge source="ZOKSEL" target="coca-cola" />
+    <edge source="ZOKSEL" target="7-up" />
+    <edge source="ZOKSEL" target="creme de cassis" />
+    <edge source="ZOKSEL" target="lemon" />
+    <edge source="HIGHLAND FLING COCKTAIL" target="scotch" />
+    <edge source="HIGHLAND FLING COCKTAIL" target="sweet vermouth" />
+    <edge source="HIGHLAND FLING COCKTAIL" target="orange bitters" />
+    <edge source="HIGHLAND FLING COCKTAIL" target="olive" />
+    <edge source="AFFAIR" target="strawberry schnapps" />
+    <edge source="AFFAIR" target="orange juice" />
+    <edge source="AFFAIR" target="cranberry juice" />
+    <edge source="AFFAIR" target="club soda" />
+    <edge source="CHOCOLATE MILK" target="chocolate liqueur" />
+    <edge source="CHOCOLATE MILK" target="milk" />
+    <edge source="CHOCOLATE MILK" target="amaretto" />
+    <edge source="RUM COBBLER" target="sugar" />
+    <edge source="RUM COBBLER" target="club soda" />
+    <edge source="RUM COBBLER" target="lemon" />
+    <edge source="RUM COBBLER" target="dark rum" />
+    <edge source="RUM COBBLER" target="maraschino cherry" />
+    <edge source="RUM COBBLER" target="orange" />
+    <edge source="SCOOTER" target="brandy" />
+    <edge source="SCOOTER" target="amaretto" />
+    <edge source="SCOOTER" target="light cream" />
+    <edge source="ZIMADORI ZINGER" target="midori melon liqueur" />
+    <edge source="ZIMADORI ZINGER" target="zima" />
+    <edge source="RUM TODDY" target="rum" />
+    <edge source="RUM TODDY" target="powdered sugar" />
+    <edge source="RUM TODDY" target="lemon peel" />
+    <edge source="RUM TODDY" target="water" />
+    <edge source="CAIPIRISSIMA" target="lime" />
+    <edge source="CAIPIRISSIMA" target="sugar" />
+    <edge source="CAIPIRISSIMA" target="white rum" />
+    <edge source="CAIPIRISSIMA" target="ice" />
+    <edge source="FROZEN PINEAPPLE DAIQUIRI" target="light rum" />
+    <edge source="FROZEN PINEAPPLE DAIQUIRI" target="pineapple" />
+    <edge source="FROZEN PINEAPPLE DAIQUIRI" target="lime juice" />
+    <edge source="FROZEN PINEAPPLE DAIQUIRI" target="sugar" />
+    <edge source="ORANGE OASIS" target="cherry brandy" />
+    <edge source="ORANGE OASIS" target="gin" />
+    <edge source="ORANGE OASIS" target="orange juice" />
+    <edge source="ORANGE OASIS" target="ginger ale" />
+    <edge source="KIOKI COFFEE" target="kahlua" />
+    <edge source="KIOKI COFFEE" target="brandy" />
+    <edge source="KIOKI COFFEE" target="coffee" />
+    <edge source="ROYAL GIN FIZZ" target="gin" />
+    <edge source="ROYAL GIN FIZZ" target="lemon" />
+    <edge source="ROYAL GIN FIZZ" target="powdered sugar" />
+    <edge source="ROYAL GIN FIZZ" target="egg" />
+    <edge source="ROYAL GIN FIZZ" target="carbonated water" />
+    <edge source="SPACE ODYSSEY" target="151 proof rum" />
+    <edge source="SPACE ODYSSEY" target="malibu rum" />
+    <edge source="SPACE ODYSSEY" target="pineapple juice" />
+    <edge source="SPACE ODYSSEY" target="orange juice" />
+    <edge source="SPACE ODYSSEY" target="grenadine" />
+    <edge source="SPACE ODYSSEY" target="cherries" />
+    <edge source="MOCHA-BERRY" target="coffee" />
+    <edge source="MOCHA-BERRY" target="chambord raspberry liqueur" />
+    <edge source="MOCHA-BERRY" target="cocoa powder" />
+    <edge source="MOCHA-BERRY" target="whipped cream" />
+    <edge source="CITY SLICKER" target="brandy" />
+    <edge source="CITY SLICKER" target="triple sec" />
+    <edge source="CITY SLICKER" target="lemon juice" />
+    <edge source="ENGLISH HIGHBALL" target="brandy" />
+    <edge source="ENGLISH HIGHBALL" target="gin" />
+    <edge source="ENGLISH HIGHBALL" target="sweet vermouth" />
+    <edge source="ENGLISH HIGHBALL" target="carbonated water" />
+    <edge source="ENGLISH HIGHBALL" target="lemon peel" />
+    <edge source="ZAMBEER" target="sambuca" />
+    <edge source="ZAMBEER" target="root beer" />
+    <edge source="ZAMBEER" target="ice" />
+    <edge source="STINGER" target="brandy" />
+    <edge source="STINGER" target="white creme de menthe" />
+    <edge source="FRUIT FLIP-FLOP" target="yoghurt" />
+    <edge source="FRUIT FLIP-FLOP" target="fruit juice" />
+    <edge source="SPRITZ" target="prosecco" />
+    <edge source="SPRITZ" target="campari" />
+    <edge source="SPRITZ" target="soda water" />
+    <edge source="PINK GIN" target="bitters" />
+    <edge source="PINK GIN" target="gin" />
+    <edge source="SPICE 75" target="sugar" />
+    <edge source="SPICE 75" target="allspice" />
+    <edge source="SPICE 75" target="rum" />
+    <edge source="SPICE 75" target="lime juice" />
+    <edge source="SPICE 75" target="champagne" />
+    <edge source="SPICE 75" target="orange spiral" />
+    <edge source="SHERRY EGGNOG" target="sherry" />
+    <edge source="SHERRY EGGNOG" target="powdered sugar" />
+    <edge source="SHERRY EGGNOG" target="egg" />
+    <edge source="SHERRY EGGNOG" target="milk" />
+    <edge source="SHERRY EGGNOG" target="nutmeg" />
+    <edge source="PINK LADY" target="gin" />
+    <edge source="PINK LADY" target="grenadine" />
+    <edge source="PINK LADY" target="light cream" />
+    <edge source="PINK LADY" target="egg white" />
+    <edge source="FUNK AND SOUL" target="rum" />
+    <edge source="FUNK AND SOUL" target="apricot nectar" />
+    <edge source="FUNK AND SOUL" target="pomegranate juice" />
+    <edge source="FUNK AND SOUL" target="lemon" />
+    <edge source="FUNK AND SOUL" target="soda water" />
+    <edge source="YELLOW BIRD" target="white rum" />
+    <edge source="YELLOW BIRD" target="galliano" />
+    <edge source="YELLOW BIRD" target="triple sec" />
+    <edge source="YELLOW BIRD" target="lime juice" />
+    <edge source="ALMERIA" target="dark rum" />
+    <edge source="ALMERIA" target="kahlua" />
+    <edge source="ALMERIA" target="egg white" />
+    <edge source="PINEAPPLE PALOMA" target="tequila" />
+    <edge source="PINEAPPLE PALOMA" target="grapefruit juice" />
+    <edge source="PINEAPPLE PALOMA" target="fresh lime juice" />
+    <edge source="PINEAPPLE PALOMA" target="pineapple juice" />
+    <edge source="PINEAPPLE PALOMA" target="lime" />
+    <edge source="PINEAPPLE PALOMA" target="pepper" />
+    <edge source="TALOS COFFEE" target="grand marnier" />
+    <edge source="TALOS COFFEE" target="coffee" />
+    <edge source="GIN SWIZZLE" target="lime juice" />
+    <edge source="GIN SWIZZLE" target="sugar" />
+    <edge source="GIN SWIZZLE" target="gin" />
+    <edge source="GIN SWIZZLE" target="bitters" />
+    <edge source="GIN SWIZZLE" target="club soda" />
+    <edge source="RASPBERRY JULEP" target="bourbon" />
+    <edge source="RASPBERRY JULEP" target="raspberry syrup" />
+    <edge source="RASPBERRY JULEP" target="mint" />
+    <edge source="RAIL SPLITTER" target="sugar syrup" />
+    <edge source="RAIL SPLITTER" target="lemon juice" />
+    <edge source="RAIL SPLITTER" target="ginger ale" />
+    <edge source="LASSI - SWEET" target="yoghurt" />
+    <edge source="LASSI - SWEET" target="water" />
+    <edge source="LASSI - SWEET" target="sugar" />
+    <edge source="LASSI - SWEET" target="salt" />
+    <edge source="LASSI - SWEET" target="lemon juice" />
+    <edge source="QUARTER DECK COCKTAIL" target="light rum" />
+    <edge source="QUARTER DECK COCKTAIL" target="sherry" />
+    <edge source="QUARTER DECK COCKTAIL" target="lime" />
+    <edge source="ARTILLERY" target="sweet vermouth" />
+    <edge source="ARTILLERY" target="gin" />
+    <edge source="ARTILLERY" target="bitters" />
+    <edge source="GOLDEN DREAM" target="galliano" />
+    <edge source="GOLDEN DREAM" target="triple sec" />
+    <edge source="GOLDEN DREAM" target="orange juice" />
+    <edge source="GOLDEN DREAM" target="cream" />
+    <edge source="ESPRESSO MARTINI" target="vodka" />
+    <edge source="ESPRESSO MARTINI" target="kahlua" />
+    <edge source="ESPRESSO MARTINI" target="sugar syrup" />
+    <edge source="RUM OLD-FASHIONED" target="light rum" />
+    <edge source="RUM OLD-FASHIONED" target="151 proof rum" />
+    <edge source="RUM OLD-FASHIONED" target="powdered sugar" />
+    <edge source="RUM OLD-FASHIONED" target="bitters" />
+    <edge source="RUM OLD-FASHIONED" target="water" />
+    <edge source="RUM OLD-FASHIONED" target="lime peel" />
+    <edge source="NEGRONI" target="gin" />
+    <edge source="NEGRONI" target="campari" />
+    <edge source="NEGRONI" target="sweet vermouth" />
+    <edge source="JAMAICA KISS" target="coffee liqueur" />
+    <edge source="JAMAICA KISS" target="light rum" />
+    <edge source="JAMAICA KISS" target="ice" />
+    <edge source="JAMAICA KISS" target="milk" />
+    <edge source="LEMOUROUDJI" target="ginger" />
+    <edge source="LEMOUROUDJI" target="water" />
+    <edge source="LEMOUROUDJI" target="lemon" />
+    <edge source="LEMOUROUDJI" target="sugar" />
+    <edge source="LEMOUROUDJI" target="cayenne pepper" />
+    <edge source="BIG RED" target="irish cream" />
+    <edge source="BIG RED" target="goldschlager" />
+    <edge source="MUNICH MULE" target="gin" />
+    <edge source="MUNICH MULE" target="lime juice" />
+    <edge source="MUNICH MULE" target="ginger beer" />
+    <edge source="MUNICH MULE" target="cucumber" />
+    <edge source="MUNICH MULE" target="lemon" />
+    <edge source="ORANGE PUSH-UP" target="spiced rum" />
+    <edge source="ORANGE PUSH-UP" target="grenadine" />
+    <edge source="ORANGE PUSH-UP" target="orange juice" />
+    <edge source="ORANGE PUSH-UP" target="sour mix" />
+    <edge source="ZENMEISTER" target="jägermeister" />
+    <edge source="ZENMEISTER" target="root beer" />
+    <edge source="SAZERAC" target="ricard" />
+    <edge source="SAZERAC" target="sugar" />
+    <edge source="SAZERAC" target="peychaud bitters" />
+    <edge source="SAZERAC" target="water" />
+    <edge source="SAZERAC" target="bourbon" />
+    <edge source="SAZERAC" target="lemon peel" />
+    <edge source="GIMLET" target="gin" />
+    <edge source="GIMLET" target="lime juice" />
+    <edge source="GIMLET" target="sugar syrup" />
+    <edge source="GIMLET" target="lime" />
+    <edge source="PINK PENOCHA" target="everclear" />
+    <edge source="PINK PENOCHA" target="vodka" />
+    <edge source="PINK PENOCHA" target="peach schnapps" />
+    <edge source="PINK PENOCHA" target="orange juice" />
+    <edge source="PINK PENOCHA" target="cranberry juice" />
+    <edge source="SNOWDAY" target="vodka" />
+    <edge source="SNOWDAY" target="amaro montenegro" />
+    <edge source="SNOWDAY" target="ruby port" />
+    <edge source="SNOWDAY" target="blood orange" />
+    <edge source="SNOWDAY" target="angostura bitters" />
+    <edge source="SNOWDAY" target="orange peel" />
+    <edge source="BLACKTHORN" target="sweet vermouth" />
+    <edge source="BLACKTHORN" target="sloe gin" />
+    <edge source="BLACKTHORN" target="lemon peel" />
+    <edge source="THE PHILOSOPHER" target="gin" />
+    <edge source="THE PHILOSOPHER" target="melon liqueur" />
+    <edge source="THE PHILOSOPHER" target="orange bitters" />
+    <edge source="THE PHILOSOPHER" target="lemon juice" />
+    <edge source="THE PHILOSOPHER" target="prosecco" />
+    <edge source="SOL Y SOMBRA" target="brandy" />
+    <edge source="SOL Y SOMBRA" target="anisette" />
+    <edge source="JAPANESE FIZZ" target="blended whiskey" />
+    <edge source="JAPANESE FIZZ" target="lemon" />
+    <edge source="JAPANESE FIZZ" target="powdered sugar" />
+    <edge source="JAPANESE FIZZ" target="port" />
+    <edge source="JAPANESE FIZZ" target="egg white" />
+    <edge source="JAPANESE FIZZ" target="carbonated water" />
+    <edge source="ZOMBIE" target="rum" />
+    <edge source="ZOMBIE" target="gold rum" />
+    <edge source="ZOMBIE" target="151 proof rum" />
+    <edge source="ZOMBIE" target="pernod" />
+    <edge source="ZOMBIE" target="grenadine" />
+    <edge source="ZOMBIE" target="lime juice" />
+    <edge source="ZOMBIE" target="angostura bitters" />
+    <edge source="KISS ME QUICK" target="cranberry vodka" />
+    <edge source="KISS ME QUICK" target="apfelkorn" />
+    <edge source="KISS ME QUICK" target="schweppes russchian" />
+    <edge source="KISS ME QUICK" target="apple juice" />
+    <edge source="KISS ME QUICK" target="ice" />
+    <edge source="ICED COFFEE FILLIP" target="kahlua" />
+    <edge source="ICED COFFEE FILLIP" target="coffee" />
+    <edge source="VESPER" target="gin" />
+    <edge source="VESPER" target="vodka" />
+    <edge source="VESPER" target="lillet blanc" />
+    <edge source="AVIATION" target="gin" />
+    <edge source="AVIATION" target="lemon juice" />
+    <edge source="AVIATION" target="maraschino liqueur" />
+    <edge source="CREME DE MENTHE" target="sugar" />
+    <edge source="CREME DE MENTHE" target="water" />
+    <edge source="CREME DE MENTHE" target="grain alcohol" />
+    <edge source="CREME DE MENTHE" target="peppermint extract" />
+    <edge source="CREME DE MENTHE" target="food coloring" />
+    <edge source="IRISH SPRING" target="irish whiskey" />
+    <edge source="IRISH SPRING" target="peach brandy" />
+    <edge source="IRISH SPRING" target="orange juice" />
+    <edge source="IRISH SPRING" target="sweet and sour" />
+    <edge source="IRISH SPRING" target="orange" />
+    <edge source="IRISH SPRING" target="cherry" />
+    <edge source="QUEEN CHARLOTTE" target="red wine" />
+    <edge source="QUEEN CHARLOTTE" target="grenadine" />
+    <edge source="QUEEN CHARLOTTE" target="lemon-lime soda" />
+    <edge source="B-53" target="kahlua" />
+    <edge source="B-53" target="sambuca" />
+    <edge source="B-53" target="grand marnier" />
+    <edge source="SMUT" target="red wine" />
+    <edge source="SMUT" target="peach schnapps" />
+    <edge source="SMUT" target="pepsi cola" />
+    <edge source="SMUT" target="orange juice" />
+    <edge source="GRIM REAPER" target="kahlua" />
+    <edge source="GRIM REAPER" target="151 proof rum" />
+    <edge source="GRIM REAPER" target="grenadine" />
+    <edge source="VICTOR" target="gin" />
+    <edge source="VICTOR" target="sweet vermouth" />
+    <edge source="VICTOR" target="brandy" />
+    <edge source="GODMOTHER" target="vodka" />
+    <edge source="GODMOTHER" target="amaretto" />
+    <edge source="BIBLE BELT" target="southern comfort" />
+    <edge source="BIBLE BELT" target="triple sec" />
+    <edge source="BIBLE BELT" target="lime" />
+    <edge source="BIBLE BELT" target="sour mix" />
+    <edge source="TEXAS RATTLESNAKE" target="yukon jack" />
+    <edge source="TEXAS RATTLESNAKE" target="cherry brandy" />
+    <edge source="TEXAS RATTLESNAKE" target="southern comfort" />
+    <edge source="TEXAS RATTLESNAKE" target="sweet and sour" />
+    <edge source="BORA BORA" target="pineapple juice" />
+    <edge source="BORA BORA" target="passion fruit juice" />
+    <edge source="BORA BORA" target="lemon juice" />
+    <edge source="BORA BORA" target="grenadine" />
+    <edge source="AFTER SEX" target="vodka" />
+    <edge source="AFTER SEX" target="creme de banane" />
+    <edge source="AFTER SEX" target="orange juice" />
+    <edge source="MANHATTAN" target="sweet vermouth" />
+    <edge source="MANHATTAN" target="bourbon" />
+    <edge source="MANHATTAN" target="angostura bitters" />
+    <edge source="MANHATTAN" target="ice" />
+    <edge source="MANHATTAN" target="maraschino cherry" />
+    <edge source="MANHATTAN" target="orange peel" />
+    <edge source="APELLO" target="orange juice" />
+    <edge source="APELLO" target="grapefruit juice" />
+    <edge source="APELLO" target="apple juice" />
+    <edge source="APELLO" target="maraschino cherry" />
+    <edge source="FLAMING LAMBORGHINI" target="kahlua" />
+    <edge source="FLAMING LAMBORGHINI" target="sambuca" />
+    <edge source="FLAMING LAMBORGHINI" target="blue curacao" />
+    <edge source="FLAMING LAMBORGHINI" target="baileys irish cream" />
+    <edge source="WHITE WINE SANGRIA" target="lime" />
+    <edge source="WHITE WINE SANGRIA" target="lemon" />
+    <edge source="WHITE WINE SANGRIA" target="white wine" />
+    <edge source="WHITE WINE SANGRIA" target="strawberries" />
+    <edge source="WHITE WINE SANGRIA" target="apple" />
+    <edge source="WHITE WINE SANGRIA" target="apple brandy" />
+    <edge source="WHITE WINE SANGRIA" target="soda water" />
+    <edge source="A. J." target="applejack" />
+    <edge source="A. J." target="grapefruit juice" />
+    <edge source="DRY MARTINI" target="gin" />
+    <edge source="DRY MARTINI" target="dry vermouth" />
+    <edge source="DRY MARTINI" target="olive" />
+    <edge source="MIAMI VICE" target="151 proof rum" />
+    <edge source="MIAMI VICE" target="pina colada mix" />
+    <edge source="MIAMI VICE" target="daiquiri mix" />
+    <edge source="JUST A MOONMINT" target="milk" />
+    <edge source="JUST A MOONMINT" target="chocolate syrup" />
+    <edge source="JUST A MOONMINT" target="mint syrup" />
+    <edge source="FLYING SCOTCHMAN" target="scotch" />
+    <edge source="FLYING SCOTCHMAN" target="sweet vermouth" />
+    <edge source="FLYING SCOTCHMAN" target="bitters" />
+    <edge source="FLYING SCOTCHMAN" target="sugar syrup" />
+    <edge source="JOHN COLLINS" target="bourbon" />
+    <edge source="JOHN COLLINS" target="lemon juice" />
+    <edge source="JOHN COLLINS" target="sugar" />
+    <edge source="JOHN COLLINS" target="club soda" />
+    <edge source="JOHN COLLINS" target="maraschino cherry" />
+    <edge source="JOHN COLLINS" target="orange" />
+    <edge source="KIWI PAPAYA SMOOTHIE" target="kiwi" />
+    <edge source="KIWI PAPAYA SMOOTHIE" target="papaya" />
+    <edge source="RUM SCREWDRIVER" target="light rum" />
+    <edge source="RUM SCREWDRIVER" target="orange juice" />
+    <edge source="WHISKEY SOUR" target="blended whiskey" />
+    <edge source="WHISKEY SOUR" target="lemon" />
+    <edge source="WHISKEY SOUR" target="powdered sugar" />
+    <edge source="WHISKEY SOUR" target="cherry" />
+    <edge source="DOWNSHIFT" target="fruit punch" />
+    <edge source="DOWNSHIFT" target="sprite" />
+    <edge source="DOWNSHIFT" target="tequila" />
+    <edge source="DOWNSHIFT" target="151 proof rum" />
+    <edge source="BUMBLE BEE" target="baileys irish cream" />
+    <edge source="BUMBLE BEE" target="kahlua" />
+    <edge source="BUMBLE BEE" target="sambuca" />
+    <edge source="BARRACUDA" target="rum" />
+    <edge source="BARRACUDA" target="galliano" />
+    <edge source="BARRACUDA" target="pineapple juice" />
+    <edge source="BARRACUDA" target="lime juice" />
+    <edge source="BARRACUDA" target="prosecco" />
+    <edge source="HONEY BEE" target="white rum" />
+    <edge source="HONEY BEE" target="honey" />
+    <edge source="HONEY BEE" target="lemon juice" />
+    <edge source="NEW YORK SOUR" target="blended whiskey" />
+    <edge source="NEW YORK SOUR" target="lemon" />
+    <edge source="NEW YORK SOUR" target="sugar" />
+    <edge source="NEW YORK SOUR" target="red wine" />
+    <edge source="NEW YORK SOUR" target="cherry" />
+    <edge source="WINE PUNCH" target="red wine" />
+    <edge source="WINE PUNCH" target="lemon" />
+    <edge source="WINE PUNCH" target="orange juice" />
+    <edge source="WINE PUNCH" target="orange" />
+    <edge source="WINE PUNCH" target="pineapple juice" />
+    <edge source="FRUIT COOLER" target="apple juice" />
+    <edge source="FRUIT COOLER" target="strawberries" />
+    <edge source="FRUIT COOLER" target="sugar" />
+    <edge source="FRUIT COOLER" target="lemon" />
+    <edge source="FRUIT COOLER" target="apple" />
+    <edge source="FRUIT COOLER" target="soda water" />
+    <edge source="FRUIT COOLER" target="ice" />
+    <edge source="GREYHOUND" target="vodka" />
+    <edge source="GREYHOUND" target="grapefruit juice" />
+    <edge source="ORANGEADE" target="lemon juice" />
+    <edge source="ORANGEADE" target="orange juice" />
+    <edge source="ORANGEADE" target="sugar syrup" />
+    <edge source="ORANGEADE" target="soda water" />
+    <edge source="HOT TODDY" target="whiskey" />
+    <edge source="HOT TODDY" target="honey" />
+    <edge source="HOT TODDY" target="cinnamon" />
+    <edge source="HOT TODDY" target="lemon" />
+    <edge source="HOT TODDY" target="cloves" />
+    <edge source="TOM COLLINS" target="gin" />
+    <edge source="TOM COLLINS" target="lemon juice" />
+    <edge source="TOM COLLINS" target="sugar" />
+    <edge source="TOM COLLINS" target="club soda" />
+    <edge source="TOM COLLINS" target="maraschino cherry" />
+    <edge source="TOM COLLINS" target="orange" />
+    <edge source="GLUEHWEIN" target="red wine" />
+    <edge source="GLUEHWEIN" target="water" />
+    <edge source="GLUEHWEIN" target="sugar" />
+    <edge source="GLUEHWEIN" target="cinnamon" />
+    <edge source="GLUEHWEIN" target="cloves" />
+    <edge source="GLUEHWEIN" target="lemon peel" />
+    <edge source="BROADSIDE" target="151 proof rum" />
+    <edge source="BROADSIDE" target="scotch" />
+    <edge source="BROADSIDE" target="bitters" />
+    <edge source="BROADSIDE" target="wormwood" />
+    <edge source="BROADSIDE" target="ice" />
+    <edge source="DANBOOKA" target="coffee" />
+    <edge source="DANBOOKA" target="everclear" />
+    <edge source="DERBY" target="gin" />
+    <edge source="DERBY" target="peach bitters" />
+    <edge source="DERBY" target="mint" />
+    <edge source="TURF COCKTAIL" target="dry vermouth" />
+    <edge source="TURF COCKTAIL" target="gin" />
+    <edge source="TURF COCKTAIL" target="anis" />
+    <edge source="TURF COCKTAIL" target="bitters" />
+    <edge source="TURF COCKTAIL" target="orange peel" />
+    <edge source="SALTY DOG" target="grapefruit juice" />
+    <edge source="SALTY DOG" target="gin" />
+    <edge source="SALTY DOG" target="salt" />
+    <edge source="PENICILLIN" target="blended scotch" />
+    <edge source="PENICILLIN" target="lemon juice" />
+    <edge source="PENICILLIN" target="honey syrup" />
+    <edge source="PENICILLIN" target="ginger syrup" />
+    <edge source="PENICILLIN" target="islay single malt scotch" />
+    <edge source="YOGHURT COOLER" target="yoghurt" />
+    <edge source="YOGHURT COOLER" target="fruit" />
+    <edge source="YOGHURT COOLER" target="ice" />
+    <edge source="GIN SQUIRT" target="gin" />
+    <edge source="GIN SQUIRT" target="grenadine" />
+    <edge source="GIN SQUIRT" target="powdered sugar" />
+    <edge source="GIN SQUIRT" target="pineapple" />
+    <edge source="GIN SQUIRT" target="strawberries" />
+    <edge source="GIN SQUIRT" target="carbonated water" />
+    <edge source="WINTER PALOMA" target="tequila" />
+    <edge source="WINTER PALOMA" target="grapefruit juice" />
+    <edge source="WINTER PALOMA" target="lime juice" />
+    <edge source="WINTER PALOMA" target="agave syrup" />
+    <edge source="WINTER PALOMA" target="pepper" />
+    <edge source="VODKA MARTINI" target="vodka" />
+    <edge source="VODKA MARTINI" target="dry vermouth" />
+    <edge source="VODKA MARTINI" target="olive" />
+    <edge source="OWEN'S GRANDMOTHER'S REVENGE" target="whiskey" />
+    <edge source="OWEN'S GRANDMOTHER'S REVENGE" target="beer" />
+    <edge source="OWEN'S GRANDMOTHER'S REVENGE" target="lemonade" />
+    <edge source="OWEN'S GRANDMOTHER'S REVENGE" target="ice" />
+    <edge source="DARK CAIPIRINHA" target="demerara sugar" />
+    <edge source="DARK CAIPIRINHA" target="lime" />
+    <edge source="DARK CAIPIRINHA" target="cachaca" />
+    <edge source="PORT WINE FLIP" target="port" />
+    <edge source="PORT WINE FLIP" target="light cream" />
+    <edge source="PORT WINE FLIP" target="powdered sugar" />
+    <edge source="PORT WINE FLIP" target="egg" />
+    <edge source="PORT WINE FLIP" target="nutmeg" />
+    <edge source="VODKA FIZZ" target="vodka" />
+    <edge source="VODKA FIZZ" target="half-and-half" />
+    <edge source="VODKA FIZZ" target="limeade" />
+    <edge source="VODKA FIZZ" target="ice" />
+    <edge source="VODKA FIZZ" target="nutmeg" />
+    <edge source="GG" target="galliano" />
+    <edge source="GG" target="ginger ale" />
+    <edge source="GG" target="ice" />
+    <edge source="VICTORY COLLINS" target="vodka" />
+    <edge source="VICTORY COLLINS" target="lemon juice" />
+    <edge source="VICTORY COLLINS" target="grape juice" />
+    <edge source="VICTORY COLLINS" target="powdered sugar" />
+    <edge source="VICTORY COLLINS" target="orange" />
+    <edge source="PURE PASSION" target="rum" />
+    <edge source="PURE PASSION" target="passoa" />
+    <edge source="PURE PASSION" target="lime juice" />
+    <edge source="PURE PASSION" target="passion fruit syrup" />
+    <edge source="PURE PASSION" target="peach bitters" />
+    <edge source="PURE PASSION" target="mint" />
+    <edge source="HOT CHOCOLATE TO DIE FOR" target="chocolate" />
+    <edge source="HOT CHOCOLATE TO DIE FOR" target="butter" />
+    <edge source="HOT CHOCOLATE TO DIE FOR" target="vanilla extract" />
+    <edge source="HOT CHOCOLATE TO DIE FOR" target="half-and-half" />
+    <edge source="HOT CHOCOLATE TO DIE FOR" target="marshmallows" />
+    <edge source="MARGARITA" target="tequila" />
+    <edge source="MARGARITA" target="triple sec" />
+    <edge source="MARGARITA" target="lime juice" />
+    <edge source="MARGARITA" target="salt" />
+    <edge source="CAMPARI BEER" target="lager" />
+    <edge source="CAMPARI BEER" target="campari" />
+    <edge source="KIWI LEMON" target="kiwi liqueur" />
+    <edge source="KIWI LEMON" target="bitter lemon" />
+    <edge source="KIWI LEMON" target="ice" />
+    <edge source="GRAND BLUE" target="malibu rum" />
+    <edge source="GRAND BLUE" target="peach schnapps" />
+    <edge source="GRAND BLUE" target="blue curacao" />
+    <edge source="GRAND BLUE" target="sweet and sour" />
+    <edge source="FIGGY THYME" target="vodka" />
+    <edge source="FIGGY THYME" target="honey" />
+    <edge source="FIGGY THYME" target="figs" />
+    <edge source="FIGGY THYME" target="thyme" />
+    <edge source="FIGGY THYME" target="angostura bitters" />
+    <edge source="FIGGY THYME" target="tonic water" />
+    <edge source="DIESEL" target="lager" />
+    <edge source="DIESEL" target="cider" />
+    <edge source="DIESEL" target="blackcurrant cordial" />
+    <edge source="MOSCOW MULE" target="vodka" />
+    <edge source="MOSCOW MULE" target="lime juice" />
+    <edge source="MOSCOW MULE" target="ginger ale" />
+    <edge source="PORT WINE COCKTAIL" target="port" />
+    <edge source="PORT WINE COCKTAIL" target="brandy" />
+    <edge source="TEQUILA SLAMMER" target="tequila" />
+    <edge source="TEQUILA SLAMMER" target="7-up" />
+    <edge source="GRIZZLY BEAR" target="amaretto" />
+    <edge source="GRIZZLY BEAR" target="jägermeister" />
+    <edge source="GRIZZLY BEAR" target="kahlua" />
+    <edge source="GRIZZLY BEAR" target="milk" />
+    <edge source="ROSEMARY BLUE" target="gin" />
+    <edge source="ROSEMARY BLUE" target="blue curacao" />
+    <edge source="ROSEMARY BLUE" target="tonic water" />
+    <edge source="ROSEMARY BLUE" target="rosemary" />
+    <edge source="GIN SMASH" target="gin" />
+    <edge source="GIN SMASH" target="carbonated water" />
+    <edge source="GIN SMASH" target="sugar" />
+    <edge source="GIN SMASH" target="mint" />
+    <edge source="GIN SMASH" target="orange" />
+    <edge source="GIN SMASH" target="cherry" />
+    <edge source="ACID" target="151 proof rum" />
+    <edge source="ACID" target="wild turkey" />
+    <edge source="GRASSHOPPER" target="green creme de menthe" />
+    <edge source="GRASSHOPPER" target="creme de cacao" />
+    <edge source="GRASSHOPPER" target="light cream" />
+    <edge source="ZIEMES MARTINI APFELSAFT" target="vermouth" />
+    <edge source="ZIEMES MARTINI APFELSAFT" target="apple juice" />
+    <edge source="EMPELLÓN COCINA'S FAT-WASHED MEZCAL" target="mezcal" />
+    <edge source="EMPELLÓN COCINA'S FAT-WASHED MEZCAL" target="chocolate liqueur" />
+    <edge source="EMPELLÓN COCINA'S FAT-WASHED MEZCAL" target="coffee liqueur" />
+    <edge source="ADDISON" target="gin" />
+    <edge source="ADDISON" target="vermouth" />
+    <edge source="JITTERBUG" target="gin" />
+    <edge source="JITTERBUG" target="vodka" />
+    <edge source="JITTERBUG" target="grenadine" />
+    <edge source="JITTERBUG" target="lime juice" />
+    <edge source="JITTERBUG" target="sugar" />
+    <edge source="JITTERBUG" target="sugar syrup" />
+    <edge source="JITTERBUG" target="soda water" />
+    <edge source="FROZEN DAIQUIRI" target="light rum" />
+    <edge source="FROZEN DAIQUIRI" target="triple sec" />
+    <edge source="FROZEN DAIQUIRI" target="lime juice" />
+    <edge source="FROZEN DAIQUIRI" target="sugar" />
+    <edge source="FROZEN DAIQUIRI" target="cherry" />
+    <edge source="FROZEN DAIQUIRI" target="ice" />
+    <edge source="PINK MOON" target="gin" />
+    <edge source="PINK MOON" target="coconut liqueur" />
+    <edge source="PINK MOON" target="elderflower cordial" />
+    <edge source="PINK MOON" target="lime juice" />
+    <edge source="PINK MOON" target="blackberries" />
+    <edge source="NUKED HOT CHOCOLATE" target="cocoa powder" />
+    <edge source="NUKED HOT CHOCOLATE" target="sugar" />
+    <edge source="NUKED HOT CHOCOLATE" target="vanilla extract" />
+    <edge source="NUKED HOT CHOCOLATE" target="milk" />
+    <edge source="ALEXANDER" target="gin" />
+    <edge source="ALEXANDER" target="creme de cacao" />
+    <edge source="ALEXANDER" target="light cream" />
+    <edge source="ALEXANDER" target="nutmeg" />
+    <edge source="IRISH CREAM" target="scotch" />
+    <edge source="IRISH CREAM" target="half-and-half" />
+    <edge source="IRISH CREAM" target="condensed milk" />
+    <edge source="IRISH CREAM" target="coconut syrup" />
+    <edge source="IRISH CREAM" target="chocolate syrup" />
+    <edge source="DRAGONFLY" target="gin" />
+    <edge source="DRAGONFLY" target="ginger ale" />
+    <edge source="DRAGONFLY" target="lime" />
+    <edge source="SWEET TOOTH" target="godiva liqueur" />
+    <edge source="SWEET TOOTH" target="milk" />
+    <edge source="MARY PICKFORD" target="light rum" />
+    <edge source="MARY PICKFORD" target="pineapple juice" />
+    <edge source="MARY PICKFORD" target="maraschino liqueur" />
+    <edge source="MARY PICKFORD" target="grenadine" />
+    <edge source="MARY PICKFORD" target="maraschino cherry" />
+    <edge source="LONG VODKA" target="vodka" />
+    <edge source="LONG VODKA" target="lime" />
+    <edge source="LONG VODKA" target="angostura bitters" />
+    <edge source="LONG VODKA" target="tonic water" />
+    <edge source="LONG VODKA" target="ice" />
+    <edge source="MAI TAI" target="light rum" />
+    <edge source="MAI TAI" target="orgeat syrup" />
+    <edge source="MAI TAI" target="triple sec" />
+    <edge source="MAI TAI" target="sweet and sour" />
+    <edge source="MAI TAI" target="cherry" />
+    <edge source="KIR" target="creme de cassis" />
+    <edge source="KIR" target="champagne" />
+    <edge source="POPPY COCKTAIL" target="gin" />
+    <edge source="POPPY COCKTAIL" target="creme de cacao" />
+    <edge source="SWEET SANGRIA" target="red wine" />
+    <edge source="SWEET SANGRIA" target="sugar" />
+    <edge source="SWEET SANGRIA" target="water" />
+    <edge source="SWEET SANGRIA" target="apple" />
+    <edge source="SWEET SANGRIA" target="orange" />
+    <edge source="SWEET SANGRIA" target="lime" />
+    <edge source="SWEET SANGRIA" target="lemon" />
+    <edge source="SWEET SANGRIA" target="fresca" />
+    <edge source="EGG CREAM" target="chocolate syrup" />
+    <edge source="EGG CREAM" target="milk" />
+    <edge source="EGG CREAM" target="soda water" />
+    <edge source="HERBAL FLAME" target="hot damn" />
+    <edge source="HERBAL FLAME" target="tea" />
+    <edge source="PALOMA" target="grape soda" />
+    <edge source="PALOMA" target="tequila" />
+    <edge source="RUSTY NAIL" target="scotch" />
+    <edge source="RUSTY NAIL" target="drambuie" />
+    <edge source="RUSTY NAIL" target="lemon peel" />
+    <edge source="KURANT TEA" target="absolut kurant" />
+    <edge source="KURANT TEA" target="tea" />
+    <edge source="KURANT TEA" target="sugar" />
+    <edge source="EGG NOG #4" target="egg yolk" />
+    <edge source="EGG NOG #4" target="sugar" />
+    <edge source="EGG NOG #4" target="milk" />
+    <edge source="EGG NOG #4" target="light rum" />
+    <edge source="EGG NOG #4" target="bourbon" />
+    <edge source="EGG NOG #4" target="vanilla extract" />
+    <edge source="EGG NOG #4" target="salt" />
+    <edge source="EGG NOG #4" target="whipping cream" />
+    <edge source="EGG NOG #4" target="egg white" />
+    <edge source="EGG NOG #4" target="nutmeg" />
+    <edge source="B-52" target="baileys irish cream" />
+    <edge source="B-52" target="grand marnier" />
+    <edge source="B-52" target="kahlua" />
+    <edge source="HARVEY WALLBANGER" target="vodka" />
+    <edge source="HARVEY WALLBANGER" target="galliano" />
+    <edge source="HARVEY WALLBANGER" target="orange juice" />
+    <edge source="AT&amp;T" target="absolut vodka" />
+    <edge source="AT&amp;T" target="gin" />
+    <edge source="AT&amp;T" target="tonic water" />
+    <edge source="DARK AND STORMY" target="dark rum" />
+    <edge source="DARK AND STORMY" target="ginger beer" />
+    <edge source="PYSCH VITAMIN LIGHT" target="orange juice" />
+    <edge source="PYSCH VITAMIN LIGHT" target="apple juice" />
+    <edge source="PYSCH VITAMIN LIGHT" target="pineapple juice" />
+    <edge source="PYSCH VITAMIN LIGHT" target="ice" />
+    <edge source="SIDECAR" target="cognac" />
+    <edge source="SIDECAR" target="cointreau" />
+    <edge source="SIDECAR" target="lemon juice" />
+    <edge source="OLD FASHIONED" target="bourbon" />
+    <edge source="OLD FASHIONED" target="angostura bitters" />
+    <edge source="OLD FASHIONED" target="sugar" />
+    <edge source="OLD FASHIONED" target="water" />
+    <edge source="CLOVER CLUB" target="gin" />
+    <edge source="CLOVER CLUB" target="grenadine" />
+    <edge source="CLOVER CLUB" target="lemon" />
+    <edge source="CLOVER CLUB" target="egg white" />
+    <edge source="MOTHER'S MILK" target="goldschlager" />
+    <edge source="MOTHER'S MILK" target="butterscotch schnapps" />
+    <edge source="MOTHER'S MILK" target="milk" />
+    <edge source="BELLINI" target="champagne" />
+    <edge source="BELLINI" target="peach schnapps" />
+    <edge source="DEATH IN THE AFTERNOON" target="absinthe" />
+    <edge source="DEATH IN THE AFTERNOON" target="champagne" />
+    <edge source="THE JIMMY CONWAY" target="irish whiskey" />
+    <edge source="THE JIMMY CONWAY" target="amaretto" />
+    <edge source="THE JIMMY CONWAY" target="cranberry juice" />
+    <edge source="ZIZI COIN-COIN" target="cointreau" />
+    <edge source="ZIZI COIN-COIN" target="lemon juice" />
+    <edge source="ZIZI COIN-COIN" target="ice" />
+    <edge source="ZIZI COIN-COIN" target="lemon" />
+    <edge source="HAWAIIAN COCKTAIL" target="gin" />
+    <edge source="HAWAIIAN COCKTAIL" target="triple sec" />
+    <edge source="HAWAIIAN COCKTAIL" target="pineapple juice" />
+    <edge source="JELLY BEAN" target="blackberry brandy" />
+    <edge source="JELLY BEAN" target="anis" />
+    <edge source="ICE PICK" target="vodka" />
+    <edge source="ICE PICK" target="iced tea" />
+    <edge source="ICE PICK" target="lemon juice" />
+    <edge source="TURKEYBALL" target="wild turkey" />
+    <edge source="TURKEYBALL" target="amaretto" />
+    <edge source="TURKEYBALL" target="pineapple juice" />
+    <edge source="PINEAPPLE GINGERALE SMOOTHIE" target="ginger" />
+    <edge source="PINEAPPLE GINGERALE SMOOTHIE" target="pineapple" />
+    <edge source="OREO MUDSLIDE" target="vodka" />
+    <edge source="OREO MUDSLIDE" target="kahlua" />
+    <edge source="OREO MUDSLIDE" target="baileys irish cream" />
+    <edge source="OREO MUDSLIDE" target="vanilla ice-cream" />
+    <edge source="OREO MUDSLIDE" target="oreo cookie" />
+    <edge source="QUEEN BEE" target="coffee brandy" />
+    <edge source="QUEEN BEE" target="lime vodka" />
+    <edge source="QUEEN BEE" target="sherry" />
+    <edge source="BRIGADIER" target="hot chocolate" />
+    <edge source="BRIGADIER" target="green chartreuse" />
+    <edge source="BRIGADIER" target="cherry heering" />
+    <edge source="NUTTY IRISHMAN" target="baileys irish cream" />
+    <edge source="NUTTY IRISHMAN" target="frangelico" />
+    <edge source="NUTTY IRISHMAN" target="milk" />
+    <edge source="ALGONQUIN" target="blended whiskey" />
+    <edge source="ALGONQUIN" target="dry vermouth" />
+    <edge source="ALGONQUIN" target="pineapple juice" />
+    <edge source="CHICAGO FIZZ" target="light rum" />
+    <edge source="CHICAGO FIZZ" target="port" />
+    <edge source="CHICAGO FIZZ" target="lemon" />
+    <edge source="CHICAGO FIZZ" target="powdered sugar" />
+    <edge source="CHICAGO FIZZ" target="egg white" />
+    <edge source="CHICAGO FIZZ" target="carbonated water" />
+    <edge source="FROSÉ" target="rose" />
+    <edge source="FROSÉ" target="sugar" />
+    <edge source="FROSÉ" target="strawberries" />
+    <edge source="FROSÉ" target="lemon juice" />
+    <edge source="ORANGE WHIP" target="orange juice" />
+    <edge source="ORANGE WHIP" target="rum" />
+    <edge source="ORANGE WHIP" target="vodka" />
+    <edge source="ORANGE WHIP" target="cream" />
+    <edge source="ORANGE WHIP" target="ice" />
+    <edge source="RUM RUNNER" target="malibu rum" />
+    <edge source="RUM RUNNER" target="blackberry brandy" />
+    <edge source="RUM RUNNER" target="orange juice" />
+    <edge source="RUM RUNNER" target="pineapple juice" />
+    <edge source="RUM RUNNER" target="cranberry juice" />
+    <edge source="JAM DONUT" target="baileys irish cream" />
+    <edge source="JAM DONUT" target="chambord raspberry liqueur" />
+    <edge source="JAM DONUT" target="sugar syrup" />
+    <edge source="JAM DONUT" target="sugar" />
+    <edge source="IPAMENA" target="lime" />
+    <edge source="IPAMENA" target="brown sugar" />
+    <edge source="IPAMENA" target="passion fruit juice" />
+    <edge source="IPAMENA" target="ginger ale" />
+    <edge source="IPAMENA" target="ice" />
+    <edge source="OLD PAL" target="rye whiskey" />
+    <edge source="OLD PAL" target="campari" />
+    <edge source="OLD PAL" target="dry vermouth" />
+    <edge source="FRISCO SOUR" target="blended whiskey" />
+    <edge source="FRISCO SOUR" target="benedictine" />
+    <edge source="FRISCO SOUR" target="lemon" />
+    <edge source="FRISCO SOUR" target="lime" />
+    <edge source="PARADISE" target="gin" />
+    <edge source="PARADISE" target="apricot brandy" />
+    <edge source="PARADISE" target="orange juice" />
+    <edge source="HOT CREAMY BUSH" target="irish whiskey" />
+    <edge source="HOT CREAMY BUSH" target="baileys irish cream" />
+    <edge source="HOT CREAMY BUSH" target="coffee" />
+    <edge source="CASINO ROYALE" target="gin" />
+    <edge source="CASINO ROYALE" target="lemon juice" />
+    <edge source="CASINO ROYALE" target="maraschino liqueur" />
+    <edge source="CASINO ROYALE" target="orange bitters" />
+    <edge source="CASINO ROYALE" target="egg yolk" />
+    <edge source="PASSION FRUIT MARTINI" target="vodka" />
+    <edge source="PASSION FRUIT MARTINI" target="sugar syrup" />
+    <edge source="PASSION FRUIT MARTINI" target="passion fruit juice" />
+    <edge source="RED SNAPPER" target="crown royal" />
+    <edge source="RED SNAPPER" target="amaretto" />
+    <edge source="RED SNAPPER" target="cranberry juice" />
+    <edge source="ZIMA BLASTER" target="zima" />
+    <edge source="ZIMA BLASTER" target="chambord raspberry liqueur" />
+    <edge source="LONDON TOWN" target="gin" />
+    <edge source="LONDON TOWN" target="maraschino liqueur" />
+    <edge source="LONDON TOWN" target="orange bitters" />
+    <edge source="JAMAICAN COFFEE" target="rum" />
+    <edge source="JAMAICAN COFFEE" target="coffee" />
+    <edge source="JAMAICAN COFFEE" target="water" />
+    <edge source="JAMAICAN COFFEE" target="whipped cream" />
+    <edge source="SCOTCH SOUR" target="scotch" />
+    <edge source="SCOTCH SOUR" target="lime" />
+    <edge source="SCOTCH SOUR" target="powdered sugar" />
+    <edge source="SCOTCH SOUR" target="lemon" />
+    <edge source="SCOTCH SOUR" target="cherry" />
+    <edge source="KOOL-AID SLAMMER" target="kool-aid" />
+    <edge source="KOOL-AID SLAMMER" target="vodka" />
+    <edge source="CUBA LIBRE" target="light rum" />
+    <edge source="CUBA LIBRE" target="lime" />
+    <edge source="CUBA LIBRE" target="coca-cola" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="apricot brandy" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="gin" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="dry vermouth" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="grenadine" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="lemon juice" />
+    <edge source="ENGLISH ROSE COCKTAIL" target="cherry" />
+    <edge source="CHOCOLATE DRINK" target="chocolate" />
+    <edge source="CHOCOLATE DRINK" target="milk" />
+    <edge source="CHOCOLATE DRINK" target="water" />
+    <edge source="DUCHAMP'S PUNCH" target="pisco" />
+    <edge source="DUCHAMP'S PUNCH" target="lime juice" />
+    <edge source="DUCHAMP'S PUNCH" target="pineapple syrup" />
+    <edge source="DUCHAMP'S PUNCH" target="st. germain" />
+    <edge source="DUCHAMP'S PUNCH" target="angostura bitters" />
+    <edge source="DUCHAMP'S PUNCH" target="pepper" />
+    <edge source="DUCHAMP'S PUNCH" target="lavender" />
+    <edge source="SNOWBALL" target="advocaat" />
+    <edge source="SNOWBALL" target="lemonade" />
+    <edge source="SNOWBALL" target="lemon" />
+    <edge source="SNOWBALL" target="ice" />
+    <edge source="BALMORAL" target="scotch" />
+    <edge source="BALMORAL" target="sweet vermouth" />
+    <edge source="BALMORAL" target="dry vermouth" />
+    <edge source="BALMORAL" target="bitters" />
+    <edge source="ICED COFFEE" target="coffee" />
+    <edge source="ICED COFFEE" target="sugar" />
+    <edge source="ICED COFFEE" target="water" />
+    <edge source="ICED COFFEE" target="milk" />
+    <edge source="NEW YORK LEMONADE" target="absolut citron" />
+    <edge source="NEW YORK LEMONADE" target="grand marnier" />
+    <edge source="NEW YORK LEMONADE" target="lemon juice" />
+    <edge source="NEW YORK LEMONADE" target="club soda" />
+    <edge source="GREEN GOBLIN" target="cider" />
+    <edge source="GREEN GOBLIN" target="lager" />
+    <edge source="GREEN GOBLIN" target="blue curacao" />
+    <edge source="DAIQUIRI" target="light rum" />
+    <edge source="DAIQUIRI" target="lime" />
+    <edge source="DAIQUIRI" target="powdered sugar" />
+    <edge source="AUTODAFÉ" target="vodka" />
+    <edge source="AUTODAFÉ" target="lime juice" />
+    <edge source="AUTODAFÉ" target="soda water" />
+    <edge source="GIN SOUR" target="gin" />
+    <edge source="GIN SOUR" target="lemon juice" />
+    <edge source="GIN SOUR" target="sugar" />
+    <edge source="GIN SOUR" target="orange" />
+    <edge source="GIN SOUR" target="maraschino cherry" />
+    <edge source="TUXEDO COCKTAIL" target="dry vermouth" />
+    <edge source="TUXEDO COCKTAIL" target="gin" />
+    <edge source="TUXEDO COCKTAIL" target="maraschino liqueur" />
+    <edge source="TUXEDO COCKTAIL" target="anis" />
+    <edge source="TUXEDO COCKTAIL" target="orange bitters" />
+    <edge source="TUXEDO COCKTAIL" target="cherry" />
+    <edge source="TIPPERARY" target="irish whiskey" />
+    <edge source="TIPPERARY" target="sweet vermouth" />
+    <edge source="TIPPERARY" target="green chartreuse" />
+    <edge source="BUBBLE GUM" target="vodka" />
+    <edge source="BUBBLE GUM" target="banana liqueur" />
+    <edge source="BUBBLE GUM" target="orange juice" />
+    <edge source="BUBBLE GUM" target="peach schnapps" />
+    <edge source="FAHRENHEIT 5000" target="firewater" />
+    <edge source="FAHRENHEIT 5000" target="absolut peppar" />
+    <edge source="FAHRENHEIT 5000" target="tabasco sauce" />
+    <edge source="HORSE'S NECK" target="lemon peel" />
+    <edge source="HORSE'S NECK" target="brandy" />
+    <edge source="HORSE'S NECK" target="ginger ale" />
+    <edge source="HORSE'S NECK" target="bitters" />
+    <edge source="SAN FRANCISCO" target="vodka" />
+    <edge source="SAN FRANCISCO" target="creme de banane" />
+    <edge source="SAN FRANCISCO" target="grenadine" />
+    <edge source="SAN FRANCISCO" target="orange juice" />
+    <edge source="GIN FIZZ" target="gin" />
+    <edge source="GIN FIZZ" target="lemon" />
+    <edge source="GIN FIZZ" target="powdered sugar" />
+    <edge source="GIN FIZZ" target="carbonated water" />
+    <edge source="HAPPY SKIPPER" target="spiced rum" />
+    <edge source="HAPPY SKIPPER" target="ginger ale" />
+    <edge source="HAPPY SKIPPER" target="lime" />
+    <edge source="HAPPY SKIPPER" target="ice" />
+    <edge source="SANGRIA" target="red wine" />
+    <edge source="SANGRIA" target="sugar" />
+    <edge source="SANGRIA" target="orange juice" />
+    <edge source="SANGRIA" target="lemon juice" />
+    <edge source="SANGRIA" target="cloves" />
+    <edge source="SANGRIA" target="cinnamon" />
+    <edge source="MARTINI" target="gin" />
+    <edge source="MARTINI" target="dry vermouth" />
+    <edge source="MARTINI" target="olive" />
+    <edge source="ZINGER" target="peachtree schnapps" />
+    <edge source="ZINGER" target="surge" />
+    <edge source="PLANTER'S PUNCH" target="dark rum" />
+    <edge source="PLANTER'S PUNCH" target="orgeat syrup" />
+    <edge source="PLANTER'S PUNCH" target="orange juice" />
+    <edge source="PLANTER'S PUNCH" target="pineapple juice" />
+    <edge source="BUCCANEER" target="corona" />
+    <edge source="BUCCANEER" target="bacardi limon" />
+    <edge source="ZIPPY'S REVENGE" target="amaretto" />
+    <edge source="ZIPPY'S REVENGE" target="rum" />
+    <edge source="ZIPPY'S REVENGE" target="kool-aid" />
+    <edge source="KIR ROYALE" target="creme de cassis" />
+    <edge source="KIR ROYALE" target="champagne" />
+    <edge source="DIRTY NIPPLE" target="kahlua" />
+    <edge source="DIRTY NIPPLE" target="sambuca" />
+    <edge source="DIRTY NIPPLE" target="baileys irish cream" />
+    <edge source="VETERAN" target="dark rum" />
+    <edge source="VETERAN" target="cherry brandy" />
+    <edge source="SHARK ATTACK" target="lemonade" />
+    <edge source="SHARK ATTACK" target="water" />
+    <edge source="SHARK ATTACK" target="vodka" />
+    <edge source="MASALA CHAI" target="water" />
+    <edge source="MASALA CHAI" target="tea" />
+    <edge source="MASALA CHAI" target="ginger" />
+    <edge source="MASALA CHAI" target="cardamom" />
+    <edge source="MASALA CHAI" target="cloves" />
+    <edge source="MASALA CHAI" target="cinnamon" />
+    <edge source="MASALA CHAI" target="black pepper" />
+    <edge source="MASALA CHAI" target="sugar" />
+    <edge source="MASALA CHAI" target="milk" />
+    <edge source="LASSI RAITA" target="yoghurt" />
+    <edge source="LASSI RAITA" target="ice" />
+    <edge source="LASSI RAITA" target="sugar" />
+    <edge source="LASSI RAITA" target="lime" />
+    <edge source="LASSI RAITA" target="salt" />
+    <edge source="BLOODY MARY" target="vodka" />
+    <edge source="BLOODY MARY" target="tomato juice" />
+    <edge source="BLOODY MARY" target="lemon juice" />
+    <edge source="BLOODY MARY" target="worcestershire sauce" />
+    <edge source="BLOODY MARY" target="tabasco sauce" />
+    <edge source="BLOODY MARY" target="lime" />
+    <edge source="JACK'S VANILLA COKE" target="ice" />
+    <edge source="JACK'S VANILLA COKE" target="tennessee whiskey" />
+    <edge source="JACK'S VANILLA COKE" target="vanilla extract" />
+    <edge source="JACK'S VANILLA COKE" target="coca-cola" />
+    <edge source="LONG ISLAND ICED TEA" target="vodka" />
+    <edge source="LONG ISLAND ICED TEA" target="tequila" />
+    <edge source="LONG ISLAND ICED TEA" target="light rum" />
+    <edge source="LONG ISLAND ICED TEA" target="gin" />
+    <edge source="LONG ISLAND ICED TEA" target="coca-cola" />
+    <edge source="LONG ISLAND ICED TEA" target="lemon peel" />
+    <edge source="BOSTON SOUR" target="blended whiskey" />
+    <edge source="BOSTON SOUR" target="lemon" />
+    <edge source="BOSTON SOUR" target="powdered sugar" />
+    <edge source="BOSTON SOUR" target="egg white" />
+    <edge source="BOSTON SOUR" target="cherry" />
+    <edge source="MARTINEZ 2" target="gin" />
+    <edge source="MARTINEZ 2" target="sweet vermouth" />
+    <edge source="MARTINEZ 2" target="maraschino liqueur" />
+    <edge source="MARTINEZ 2" target="angostura bitters" />
+    <edge source="COFFEE LIQUEUR" target="coffee" />
+    <edge source="COFFEE LIQUEUR" target="vanilla extract" />
+    <edge source="COFFEE LIQUEUR" target="sugar" />
+    <edge source="COFFEE LIQUEUR" target="vodka" />
+    <edge source="COFFEE LIQUEUR" target="water" />
+    <edge source="VESUVIO" target="light rum" />
+    <edge source="VESUVIO" target="sweet vermouth" />
+    <edge source="VESUVIO" target="lemon" />
+    <edge source="VESUVIO" target="powdered sugar" />
+    <edge source="VESUVIO" target="egg white" />
+    <edge source="ABILENE" target="dark rum" />
+    <edge source="ABILENE" target="peach nectar" />
+    <edge source="ABILENE" target="orange juice" />
+    <edge source="GIN SLING" target="gin" />
+    <edge source="GIN SLING" target="lemon" />
+    <edge source="GIN SLING" target="powdered sugar" />
+    <edge source="GIN SLING" target="water" />
+    <edge source="GIN SLING" target="orange peel" />
+    <edge source="KAMIKAZE" target="vodka" />
+    <edge source="KAMIKAZE" target="triple sec" />
+    <edge source="KAMIKAZE" target="lime juice" />
+    <edge source="DARKWOOD SLING" target="cherry heering" />
+    <edge source="DARKWOOD SLING" target="soda water" />
+    <edge source="DARKWOOD SLING" target="orange juice" />
+    <edge source="DARKWOOD SLING" target="ice" />
+    <edge source="HUNTER'S MOON" target="vermouth" />
+    <edge source="HUNTER'S MOON" target="maraschino cherry" />
+    <edge source="HUNTER'S MOON" target="sugar syrup" />
+    <edge source="HUNTER'S MOON" target="lemonade" />
+    <edge source="HUNTER'S MOON" target="blackberries" />
+    <edge source="PISCO SOUR" target="pisco" />
+    <edge source="PISCO SOUR" target="lemon juice" />
+    <edge source="PISCO SOUR" target="sugar" />
+    <edge source="PISCO SOUR" target="ice" />
+    <edge source="PISCO SOUR" target="egg white" />
+    <edge source="QUEEN ELIZABETH" target="dry vermouth" />
+    <edge source="QUEEN ELIZABETH" target="gin" />
+    <edge source="QUEEN ELIZABETH" target="benedictine" />
+    <edge source="ROSE" target="dry vermouth" />
+    <edge source="ROSE" target="gin" />
+    <edge source="ROSE" target="apricot brandy" />
+    <edge source="ROSE" target="lemon juice" />
+    <edge source="ROSE" target="grenadine" />
+    <edge source="ROSE" target="powdered sugar" />
+    <edge source="CAFE SAVOY" target="coffee" />
+    <edge source="CAFE SAVOY" target="milk" />
+    <edge source="CAFE SAVOY" target="triple sec" />
+    <edge source="CAFE SAVOY" target="brandy" />
+    <edge source="FLANDER'S FLAKE-OUT" target="sambuca" />
+    <edge source="FLANDER'S FLAKE-OUT" target="sarsaparilla" />
+    <edge source="ABC" target="amaretto" />
+    <edge source="ABC" target="baileys irish cream" />
+    <edge source="ABC" target="cognac" />
+    <edge source="GIN RICKEY" target="gin" />
+    <edge source="GIN RICKEY" target="grenadine" />
+    <edge source="GIN RICKEY" target="lemon" />
+    <edge source="GIN RICKEY" target="soda water" />
+    <edge source="GIN RICKEY" target="lime" />
+    <edge source="FOXY LADY" target="amaretto" />
+    <edge source="FOXY LADY" target="creme de cacao" />
+    <edge source="FOXY LADY" target="light cream" />
+    <edge source="LAZY COCONUT PALOMA" target="coconut liqueur" />
+    <edge source="LAZY COCONUT PALOMA" target="grapefruit juice" />
+    <edge source="LAZY COCONUT PALOMA" target="soda water" />
+    <edge source="DRY ROB ROY" target="scotch" />
+    <edge source="DRY ROB ROY" target="dry vermouth" />
+    <edge source="DRY ROB ROY" target="lemon peel" />
+    <edge source="TIA-MARIA" target="water" />
+    <edge source="TIA-MARIA" target="brown sugar" />
+    <edge source="TIA-MARIA" target="coffee" />
+    <edge source="TIA-MARIA" target="rum" />
+    <edge source="TIA-MARIA" target="vanilla extract" />
+    <edge source="H.D." target="whisky" />
+    <edge source="H.D." target="baileys irish cream" />
+    <edge source="H.D." target="coffee" />
+    <edge source="ACE" target="gin" />
+    <edge source="ACE" target="grenadine" />
+    <edge source="ACE" target="heavy cream" />
+    <edge source="ACE" target="milk" />
+    <edge source="ACE" target="egg white" />
+    <edge source="GAGLIARDO" target="peach vodka" />
+    <edge source="GAGLIARDO" target="lemon juice" />
+    <edge source="GAGLIARDO" target="galliano" />
+    <edge source="GAGLIARDO" target="sirup of roses" />
+    <edge source="HOLLOWEEN PUNCH" target="grape juice" />
+    <edge source="HOLLOWEEN PUNCH" target="carbonated soft drink" />
+    <edge source="HOLLOWEEN PUNCH" target="sherbet" />
+    <edge source="LIMEADE" target="lime" />
+    <edge source="LIMEADE" target="sugar" />
+    <edge source="LIMEADE" target="soda water" />
+    <edge source="LIMEADE" target="lime peel" />
+    <edge source="JACKHAMMER" target="jack daniels" />
+    <edge source="JACKHAMMER" target="amaretto" />
+    <edge source="IRISH CURDLING COW" target="baileys irish cream" />
+    <edge source="IRISH CURDLING COW" target="bourbon" />
+    <edge source="IRISH CURDLING COW" target="vodka" />
+    <edge source="IRISH CURDLING COW" target="orange juice" />
+    <edge source="COKE AND DROPS" target="coca-cola" />
+    <edge source="COKE AND DROPS" target="lemon juice" />
+    <edge source="CAIPIRINHA" target="sugar" />
+    <edge source="CAIPIRINHA" target="lime" />
+    <edge source="CAIPIRINHA" target="cachaca" />
+    <edge source="ACAPULCO" target="light rum" />
+    <edge source="ACAPULCO" target="triple sec" />
+    <edge source="ACAPULCO" target="lime juice" />
+    <edge source="ACAPULCO" target="sugar" />
+    <edge source="ACAPULCO" target="egg white" />
+    <edge source="ACAPULCO" target="mint" />
+    <edge source="ALLEGHENY" target="dry vermouth" />
+    <edge source="ALLEGHENY" target="bourbon" />
+    <edge source="ALLEGHENY" target="blackberry brandy" />
+    <edge source="ALLEGHENY" target="lemon juice" />
+    <edge source="ALLEGHENY" target="lemon peel" />
+    <edge source="WHITE RUSSIAN" target="vodka" />
+    <edge source="WHITE RUSSIAN" target="coffee liqueur" />
+    <edge source="WHITE RUSSIAN" target="light cream" />
+    <edge source="FRUIT SHAKE" target="yoghurt" />
+    <edge source="FRUIT SHAKE" target="banana" />
+    <edge source="FRUIT SHAKE" target="orange juice" />
+    <edge source="FRUIT SHAKE" target="fruit" />
+    <edge source="FRUIT SHAKE" target="ice" />
+    <edge source="ROYAL FIZZ" target="gin" />
+    <edge source="ROYAL FIZZ" target="sweet and sour" />
+    <edge source="ROYAL FIZZ" target="egg" />
+    <edge source="ROYAL FIZZ" target="coca-cola" />
+    <edge source="FRAPPÉ" target="coffee" />
+    <edge source="FRAPPÉ" target="milk" />
+    <edge source="FRAPPÉ" target="sugar" />
+    <edge source="JEWEL OF THE NILE" target="gin" />
+    <edge source="JEWEL OF THE NILE" target="green chartreuse" />
+    <edge source="JEWEL OF THE NILE" target="yellow chartreuse" />
+    <edge source="COFFEE-VODKA" target="water" />
+    <edge source="COFFEE-VODKA" target="sugar" />
+    <edge source="COFFEE-VODKA" target="coffee" />
+    <edge source="COFFEE-VODKA" target="vanilla" />
+    <edge source="COFFEE-VODKA" target="vodka" />
+    <edge source="COFFEE-VODKA" target="caramel coloring" />
+    <edge source="LASSI KHARA" target="yoghurt" />
+    <edge source="LASSI KHARA" target="water" />
+    <edge source="LASSI KHARA" target="salt" />
+    <edge source="LASSI KHARA" target="asafoetida" />
+    <edge source="KARSK" target="coffee" />
+    <edge source="KARSK" target="grain alcohol" />
+    <edge source="VERMOUTH CASSIS" target="dry vermouth" />
+    <edge source="VERMOUTH CASSIS" target="creme de cassis" />
+    <edge source="VERMOUTH CASSIS" target="carbonated water" />
+    <edge source="WAIKIKI BEACHCOMBER" target="triple sec" />
+    <edge source="WAIKIKI BEACHCOMBER" target="gin" />
+    <edge source="WAIKIKI BEACHCOMBER" target="pineapple juice" />
+    <edge source="ROYAL BITCH" target="frangelico" />
+    <edge source="ROYAL BITCH" target="crown royal" />
+    <edge source="BLUEBIRD" target="gin" />
+    <edge source="BLUEBIRD" target="triple sec" />
+    <edge source="BLUEBIRD" target="blue curacao" />
+    <edge source="BLUEBIRD" target="bitters" />
+    <edge source="BLUEBIRD" target="maraschino cherry" />
+    <edge source="BLUEBIRD" target="lemon peel" />
+    <edge source="TENNESEE MUD" target="coffee" />
+    <edge source="TENNESEE MUD" target="jack daniels" />
+    <edge source="TENNESEE MUD" target="amaretto" />
+    <edge source="TENNESEE MUD" target="whipped cream" />
+    <edge source="SHERRY FLIP" target="sherry" />
+    <edge source="SHERRY FLIP" target="light cream" />
+    <edge source="SHERRY FLIP" target="powdered sugar" />
+    <edge source="SHERRY FLIP" target="egg" />
+    <edge source="SHERRY FLIP" target="nutmeg" />
+    <edge source="RUM PUNCH" target="rum" />
+    <edge source="RUM PUNCH" target="ginger ale" />
+    <edge source="RUM PUNCH" target="fruit punch" />
+    <edge source="RUM PUNCH" target="orange juice" />
+    <edge source="RUM PUNCH" target="ice" />
+    <edge source="WHITE LADY" target="gin" />
+    <edge source="WHITE LADY" target="triple sec" />
+    <edge source="WHITE LADY" target="lemon juice" />
+    <edge source="LEMON SHOT" target="galliano" />
+    <edge source="LEMON SHOT" target="absolut citron" />
+    <edge source="LEMON SHOT" target="lemon" />
+    <edge source="LEMON SHOT" target="sugar" />
+    <edge source="LEMON SHOT" target="151 proof rum" />
+    <edge source="MELYA" target="espresso" />
+    <edge source="MELYA" target="honey" />
+    <edge source="MELYA" target="cocoa powder" />
+    <edge source="QUAKER'S COCKTAIL" target="light rum" />
+    <edge source="QUAKER'S COCKTAIL" target="brandy" />
+    <edge source="QUAKER'S COCKTAIL" target="lemon" />
+    <edge source="QUAKER'S COCKTAIL" target="raspberry syrup" />
+    <edge source="QUICK F**K" target="kahlua" />
+    <edge source="QUICK F**K" target="midori melon liqueur" />
+    <edge source="QUICK F**K" target="baileys irish cream" />
+    <edge source="GIN COOLER" target="gin" />
+    <edge source="GIN COOLER" target="carbonated water" />
+    <edge source="GIN COOLER" target="powdered sugar" />
+    <edge source="GIN COOLER" target="orange spiral" />
+    <edge source="GIN COOLER" target="lemon peel" />
+    <edge source="MOJITO" target="light rum" />
+    <edge source="MOJITO" target="lime" />
+    <edge source="MOJITO" target="sugar" />
+    <edge source="MOJITO" target="mint" />
+    <edge source="MOJITO" target="soda water" />
+    <edge source="ELDERFLOWER CAIPIRINHA" target="cachaca" />
+    <edge source="ELDERFLOWER CAIPIRINHA" target="lime" />
+    <edge source="ELDERFLOWER CAIPIRINHA" target="elderflower cordial" />
+    <edge source="PORTO FLIP" target="brandy" />
+    <edge source="PORTO FLIP" target="port" />
+    <edge source="PORTO FLIP" target="egg yolk" />
+    <edge source="HEMINGWAY SPECIAL" target="rum" />
+    <edge source="HEMINGWAY SPECIAL" target="grapefruit juice" />
+    <edge source="HEMINGWAY SPECIAL" target="maraschino liqueur" />
+    <edge source="HEMINGWAY SPECIAL" target="lime juice" />
+    <edge source="FLYING DUTCHMAN" target="gin" />
+    <edge source="FLYING DUTCHMAN" target="triple sec" />
+    <edge source="BRAIN FART" target="everclear" />
+    <edge source="BRAIN FART" target="vodka" />
+    <edge source="BRAIN FART" target="mountain dew" />
+    <edge source="BRAIN FART" target="surge" />
+    <edge source="BRAIN FART" target="lemon juice" />
+    <edge source="BRAIN FART" target="rum" />
+    <edge source="ESPRESSO RUMTINI" target="rum" />
+    <edge source="ESPRESSO RUMTINI" target="vanilla syrup" />
+    <edge source="ESPRESSO RUMTINI" target="espresso" />
+    <edge source="ESPRESSO RUMTINI" target="coffee" />
+    <edge source="TOMATO TANG" target="tomato juice" />
+    <edge source="TOMATO TANG" target="lemon juice" />
+    <edge source="TOMATO TANG" target="celery salt" />
+    <edge source="LASSI - A SOUTH INDIAN DRINK" target="yoghurt" />
+    <edge source="LASSI - A SOUTH INDIAN DRINK" target="water" />
+    <edge source="LASSI - A SOUTH INDIAN DRINK" target="cumin seed" />
+    <edge source="LASSI - A SOUTH INDIAN DRINK" target="salt" />
+    <edge source="LASSI - A SOUTH INDIAN DRINK" target="mint" />
+    <edge source="WHITECAP MARGARITA" target="ice" />
+    <edge source="WHITECAP MARGARITA" target="tequila" />
+    <edge source="WHITECAP MARGARITA" target="cream of coconut" />
+    <edge source="WHITECAP MARGARITA" target="lime juice" />
+    <edge source="HOMEMADE KAHLUA" target="sugar" />
+    <edge source="HOMEMADE KAHLUA" target="corn syrup" />
+    <edge source="HOMEMADE KAHLUA" target="coffee" />
+    <edge source="HOMEMADE KAHLUA" target="vanilla extract" />
+    <edge source="HOMEMADE KAHLUA" target="water" />
+    <edge source="HOMEMADE KAHLUA" target="vodka" />
+    <edge source="CHERRY RUM" target="light rum" />
+    <edge source="CHERRY RUM" target="cherry brandy" />
+    <edge source="CHERRY RUM" target="light cream" />
+    <edge source="GRASS SKIRT" target="gin" />
+    <edge source="GRASS SKIRT" target="triple sec" />
+    <edge source="GRASS SKIRT" target="pineapple juice" />
+    <edge source="GRASS SKIRT" target="grenadine" />
+    <edge source="GRASS SKIRT" target="pineapple" />
+    <edge source="STONE SOUR" target="apricot brandy" />
+    <edge source="STONE SOUR" target="orange juice" />
+    <edge source="STONE SOUR" target="sweet and sour" />
+    <edge source="LIMONA CORONA" target="corona" />
+    <edge source="LIMONA CORONA" target="bacardi limon" />
+    <edge source="THAI COFFEE" target="coffee" />
+    <edge source="THAI COFFEE" target="coriander" />
+    <edge source="THAI COFFEE" target="cardamom" />
+    <edge source="THAI COFFEE" target="sugar" />
+    <edge source="THAI COFFEE" target="whipping cream" />
+    <edge source="THAI COFFEE" target="ice" />
+    <edge source="RUM COOLER" target="rum" />
+    <edge source="RUM COOLER" target="lemon-lime soda" />
+    <edge source="RUM COOLER" target="lemon" />
+    <edge source="MOJITO EXTRA" target="mint" />
+    <edge source="MOJITO EXTRA" target="lemon juice" />
+    <edge source="MOJITO EXTRA" target="dark rum" />
+    <edge source="MOJITO EXTRA" target="club soda" />
+    <edge source="MOJITO EXTRA" target="angostura bitters" />
+    <edge source="LONE TREE COCKTAIL" target="sweet vermouth" />
+    <edge source="LONE TREE COCKTAIL" target="gin" />
+    <edge source="BLUE LAGOON" target="vodka" />
+    <edge source="BLUE LAGOON" target="blue curacao" />
+    <edge source="BLUE LAGOON" target="lemonade" />
+    <edge source="BLUE LAGOON" target="cherry" />
+    <edge source="AFFINITY" target="scotch" />
+    <edge source="AFFINITY" target="sweet vermouth" />
+    <edge source="AFFINITY" target="dry vermouth" />
+    <edge source="AFFINITY" target="orange bitters" />
+    <edge source="EGG NOG - HEALTHY" target="egg" />
+    <edge source="EGG NOG - HEALTHY" target="sugar" />
+    <edge source="EGG NOG - HEALTHY" target="condensed milk" />
+    <edge source="EGG NOG - HEALTHY" target="milk" />
+    <edge source="EGG NOG - HEALTHY" target="vanilla extract" />
+    <edge source="EGG NOG - HEALTHY" target="rum" />
+    <edge source="EGG NOG - HEALTHY" target="nutmeg" />
+    <edge source="WINTER RITA" target="tequila" />
+    <edge source="WINTER RITA" target="campari" />
+    <edge source="WINTER RITA" target="lime juice" />
+    <edge source="WINTER RITA" target="orange juice" />
+    <edge source="WINTER RITA" target="rosemary syrup" />
+    <edge source="WINTER RITA" target="salt" />
+    <edge source="FROZEN MINT DAIQUIRI" target="light rum" />
+    <edge source="FROZEN MINT DAIQUIRI" target="lime juice" />
+    <edge source="FROZEN MINT DAIQUIRI" target="mint" />
+    <edge source="FROZEN MINT DAIQUIRI" target="sugar" />
+    <edge source="GODCHILD" target="vodka" />
+    <edge source="GODCHILD" target="amaretto" />
+    <edge source="GODCHILD" target="heavy cream" />
+    <edge source="PINK PANTY PULLDOWNS" target="sprite" />
+    <edge source="PINK PANTY PULLDOWNS" target="pink lemonade" />
+    <edge source="PINK PANTY PULLDOWNS" target="vodka" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="rum" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="vodka" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="tequila" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="gin" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="triple sec" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="chambord raspberry liqueur" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="midori melon liqueur" />
+    <edge source="RADIOACTIVE LONG ISLAND ICED TEA" target="malibu rum" />
+    <edge source="MIDNIGHT MINT" target="baileys irish cream" />
+    <edge source="MIDNIGHT MINT" target="white creme de menthe" />
+    <edge source="MIDNIGHT MINT" target="cream" />
+    <edge source="BRAMBLE" target="gin" />
+    <edge source="BRAMBLE" target="lemon juice" />
+    <edge source="BRAMBLE" target="sugar syrup" />
+    <edge source="BRAMBLE" target="creme de mure" />
+    <edge source="COSMOPOLITAN" target="absolut citron" />
+    <edge source="COSMOPOLITAN" target="lime juice" />
+    <edge source="COSMOPOLITAN" target="cointreau" />
+    <edge source="COSMOPOLITAN" target="cranberry juice" />
+    <edge source="AFTERNOON" target="kahlua" />
+    <edge source="AFTERNOON" target="baileys irish cream" />
+    <edge source="AFTERNOON" target="frangelico" />
+    <edge source="AFTERNOON" target="coffee" />
+    <edge source="AFTERNOON" target="cream" />
+    <edge source="KILL THE COLD SMOOTHIE" target="ginger" />
+    <edge source="KILL THE COLD SMOOTHIE" target="lemon" />
+    <edge source="KILL THE COLD SMOOTHIE" target="water" />
+    <edge source="ADAM" target="dark rum" />
+    <edge source="ADAM" target="lemon juice" />
+    <edge source="ADAM" target="grenadine" />
+    <edge source="SHOT-GUN" target="jim beam" />
+    <edge source="SHOT-GUN" target="jack daniels" />
+    <edge source="SHOT-GUN" target="wild turkey" />
+    <edge source="ZORBATINI" target="vodka" />
+    <edge source="ZORBATINI" target="ouzo" />
+    <edge source="CITRUS COKE" target="bacardi limon" />
+    <edge source="CITRUS COKE" target="coca-cola" />
+    <edge source="FLAMING DR. PEPPER" target="amaretto" />
+    <edge source="FLAMING DR. PEPPER" target="vodka" />
+    <edge source="FLAMING DR. PEPPER" target="151 proof rum" />
+    <edge source="FLAMING DR. PEPPER" target="dr. pepper" />
+    <edge source="FLAMING DR. PEPPER" target="beer" />
+    <edge source="AVALON" target="vodka" />
+    <edge source="AVALON" target="pisang ambon" />
+    <edge source="AVALON" target="apple juice" />
+    <edge source="AVALON" target="lemon juice" />
+    <edge source="AVALON" target="lemonade" />
+    <edge source="GODFATHER" target="scotch" />
+    <edge source="GODFATHER" target="amaretto" />
+    <edge source="PORT AND STARBOARD" target="grenadine" />
+    <edge source="PORT AND STARBOARD" target="green creme de menthe" />
+    <edge source="KOOL FIRST AID" target="151 proof rum" />
+    <edge source="KOOL FIRST AID" target="kool-aid" />
+    <edge source="GIN TODDY" target="gin" />
+    <edge source="GIN TODDY" target="water" />
+    <edge source="GIN TODDY" target="powdered sugar" />
+    <edge source="GIN TODDY" target="lemon peel" />
+    <edge source="RASPBERRY COOLER" target="raspberry vodka" />
+    <edge source="RASPBERRY COOLER" target="lemon-lime soda" />
+    <edge source="RASPBERRY COOLER" target="ice" />
+    <edge source="WINE COOLER" target="red wine" />
+    <edge source="WINE COOLER" target="lemon-lime soda" />
+    <edge source="WINE COOLER" target="ice" />
+    <edge source="A1" target="gin" />
+    <edge source="A1" target="grand marnier" />
+    <edge source="A1" target="lemon juice" />
+    <edge source="A1" target="grenadine" />
+    <edge source="TEQUILA SUNRISE" target="tequila" />
+    <edge source="TEQUILA SUNRISE" target="orange juice" />
+    <edge source="TEQUILA SUNRISE" target="grenadine" />
+    <edge source="RUM MILK PUNCH" target="light rum" />
+    <edge source="RUM MILK PUNCH" target="milk" />
+    <edge source="RUM MILK PUNCH" target="powdered sugar" />
+    <edge source="RUM MILK PUNCH" target="nutmeg" />
+    <edge source="APPLECAR" target="applejack" />
+    <edge source="APPLECAR" target="triple sec" />
+    <edge source="APPLECAR" target="lemon juice" />
+    <edge source="FREDDY KRUGER" target="jägermeister" />
+    <edge source="FREDDY KRUGER" target="sambuca" />
+    <edge source="FREDDY KRUGER" target="vodka" />
+    <edge source="CASA BLANCA" target="light rum" />
+    <edge source="CASA BLANCA" target="triple sec" />
+    <edge source="CASA BLANCA" target="lime juice" />
+    <edge source="CASA BLANCA" target="maraschino liqueur" />
+    <edge source="BOXCAR" target="gin" />
+    <edge source="BOXCAR" target="triple sec" />
+    <edge source="BOXCAR" target="lemon juice" />
+    <edge source="BOXCAR" target="grenadine" />
+    <edge source="BOXCAR" target="egg white" />
+    <edge source="VALENCIA COCKTAIL" target="apricot brandy" />
+    <edge source="VALENCIA COCKTAIL" target="orange juice" />
+    <edge source="VALENCIA COCKTAIL" target="orange bitters" />
+    <edge source="LEMON DROP" target="absolut vodka" />
+    <edge source="LEMON DROP" target="cointreau" />
+    <edge source="LEMON DROP" target="lemon" />
+    <edge source="JELLO SHOTS" target="vodka" />
+    <edge source="JELLO SHOTS" target="jello" />
+    <edge source="JELLO SHOTS" target="water" />
+    <edge source="SCREWDRIVER" target="vodka" />
+    <edge source="SCREWDRIVER" target="orange juice" />
+    <edge source="TEXAS SLING" target="kahlua" />
+    <edge source="TEXAS SLING" target="irish cream" />
+    <edge source="TEXAS SLING" target="amaretto" />
+    <edge source="TEXAS SLING" target="151 proof rum" />
+    <edge source="TEXAS SLING" target="cream" />
+    <edge source="CUBA LIBRA" target="dark rum" />
+    <edge source="CUBA LIBRA" target="lime" />
+    <edge source="CUBA LIBRA" target="coca-cola" />
+    <edge source="CUBA LIBRA" target="ice" />
+    <edge source="VODKA RUSSIAN" target="vodka" />
+    <edge source="VODKA RUSSIAN" target="schweppes russchian" />
+    <edge source="FRENCH MARTINI" target="vodka" />
+    <edge source="FRENCH MARTINI" target="raspberry liqueur" />
+    <edge source="FRENCH MARTINI" target="pineapple juice" />
+    <edge source="DIRTY MARTINI" target="vodka" />
+    <edge source="DIRTY MARTINI" target="dry vermouth" />
+    <edge source="DIRTY MARTINI" target="olive brine" />
+    <edge source="DIRTY MARTINI" target="lemon" />
+    <edge source="DIRTY MARTINI" target="olive" />
+    <edge source="MINT JULEP" target="mint" />
+    <edge source="MINT JULEP" target="bourbon" />
+    <edge source="MINT JULEP" target="powdered sugar" />
+    <edge source="MINT JULEP" target="water" />
+    <edge source="LONE TREE COOLER" target="carbonated water" />
+    <edge source="LONE TREE COOLER" target="gin" />
+    <edge source="LONE TREE COOLER" target="dry vermouth" />
+    <edge source="LONE TREE COOLER" target="powdered sugar" />
+    <edge source="LONE TREE COOLER" target="orange spiral" />
+    <edge source="LONE TREE COOLER" target="lemon peel" />
+    <edge source="ORGASM" target="creme de cacao" />
+    <edge source="ORGASM" target="amaretto" />
+    <edge source="ORGASM" target="triple sec" />
+    <edge source="ORGASM" target="vodka" />
+    <edge source="ORGASM" target="light cream" />
+    <edge source="IMPERIAL COCKTAIL" target="lime juice" />
+    <edge source="IMPERIAL COCKTAIL" target="gin" />
+    <edge source="IMPERIAL COCKTAIL" target="aperol" />
+    <edge source="VAMPIRO" target="tequila" />
+    <edge source="VAMPIRO" target="tomato juice" />
+    <edge source="VAMPIRO" target="orange juice" />
+    <edge source="VAMPIRO" target="lime juice" />
+    <edge source="VAMPIRO" target="sugar syrup" />
+    <edge source="VAMPIRO" target="salt" />
+    <edge source="OATMEAL COOKIE" target="kahlua" />
+    <edge source="OATMEAL COOKIE" target="bailey" />
+    <edge source="OATMEAL COOKIE" target="butterscotch schnapps" />
+    <edge source="OATMEAL COOKIE" target="jagermeister" />
+    <edge source="OATMEAL COOKIE" target="goldschlager" />
+    <edge source="THRILLER" target="scotch" />
+    <edge source="THRILLER" target="wine" />
+    <edge source="THRILLER" target="orange juice" />
+    <edge source="RADLER" target="beer" />
+    <edge source="RADLER" target="7-up" />
+    <edge source="DAMNED IF YOU DO" target="whiskey" />
+    <edge source="DAMNED IF YOU DO" target="hot damn" />
+    <edge source="IMPERIAL FIZZ" target="light rum" />
+    <edge source="IMPERIAL FIZZ" target="blended whiskey" />
+    <edge source="IMPERIAL FIZZ" target="lemon" />
+    <edge source="IMPERIAL FIZZ" target="powdered sugar" />
+    <edge source="IMPERIAL FIZZ" target="carbonated water" />
+    <edge source="NATIONAL AQUARIUM" target="rum" />
+    <edge source="NATIONAL AQUARIUM" target="vodka" />
+    <edge source="NATIONAL AQUARIUM" target="gin" />
+    <edge source="NATIONAL AQUARIUM" target="blue curacao" />
+    <edge source="NATIONAL AQUARIUM" target="sour mix" />
+    <edge source="NATIONAL AQUARIUM" target="lemon-lime soda" />
+    <edge source="VAN VLEET" target="light rum" />
+    <edge source="VAN VLEET" target="maple syrup" />
+    <edge source="VAN VLEET" target="lemon juice" />
+    <edge source="ORANGE CRUSH" target="vodka" />
+    <edge source="ORANGE CRUSH" target="triple sec" />
+    <edge source="ORANGE CRUSH" target="orange juice" />
+    <edge source="RUBY TUESDAY" target="gin" />
+    <edge source="RUBY TUESDAY" target="cranberry juice" />
+    <edge source="RUBY TUESDAY" target="grenadine" />
+    <edge source="LUNCH BOX" target="beer" />
+    <edge source="LUNCH BOX" target="amaretto" />
+    <edge source="LUNCH BOX" target="orange juice" />
+    <edge source="MULLED WINE" target="water" />
+    <edge source="MULLED WINE" target="sugar" />
+    <edge source="MULLED WINE" target="cloves" />
+    <edge source="MULLED WINE" target="cinnamon" />
+    <edge source="MULLED WINE" target="lemon peel" />
+    <edge source="MULLED WINE" target="red wine" />
+    <edge source="MULLED WINE" target="brandy" />
+    <edge source="DRINKING CHOCOLATE" target="heavy cream" />
+    <edge source="DRINKING CHOCOLATE" target="milk" />
+    <edge source="DRINKING CHOCOLATE" target="cinnamon" />
+    <edge source="DRINKING CHOCOLATE" target="vanilla" />
+    <edge source="DRINKING CHOCOLATE" target="chocolate" />
+    <edge source="DRINKING CHOCOLATE" target="whipped cream" />
+    <edge source="MONKEY WRENCH" target="light rum" />
+    <edge source="MONKEY WRENCH" target="grapefruit juice" />
+    <edge source="MONKEY WRENCH" target="bitters" />
+    <edge source="MONKEY GLAND" target="gin" />
+    <edge source="MONKEY GLAND" target="benedictine" />
+    <edge source="MONKEY GLAND" target="orange juice" />
+    <edge source="MONKEY GLAND" target="grenadine" />
+    <edge source="WHISKY MAC" target="scotch" />
+    <edge source="WHISKY MAC" target="wine" />
+    <edge source="LORD AND LADY" target="dark rum" />
+    <edge source="LORD AND LADY" target="tia maria" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="gin" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="orange juice" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="lemon juice" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="rosemary syrup" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="soda water" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="rosemary" />
+    <edge source="ORANGE ROSEMARY COLLINS" target="orange peel" />
+    <edge source="ROYAL FLUSH" target="crown royal" />
+    <edge source="ROYAL FLUSH" target="peach schnapps" />
+    <edge source="ROYAL FLUSH" target="chambord raspberry liqueur" />
+    <edge source="ROYAL FLUSH" target="cranberry juice" />
+    <edge source="HAVANA COCKTAIL" target="light rum" />
+    <edge source="HAVANA COCKTAIL" target="pineapple juice" />
+    <edge source="HAVANA COCKTAIL" target="lemon juice" />
+    <edge source="RUSSIAN SPRING PUNCH" target="vodka" />
+    <edge source="RUSSIAN SPRING PUNCH" target="creme de cassis" />
+    <edge source="RUSSIAN SPRING PUNCH" target="sugar syrup" />
+    <edge source="RUSSIAN SPRING PUNCH" target="lemon juice" />
+    <edge source="THE LAST WORD" target="green chartreuse" />
+    <edge source="THE LAST WORD" target="maraschino liqueur" />
+    <edge source="THE LAST WORD" target="lime juice" />
+    <edge source="THE GALAH" target="dark rum" />
+    <edge source="THE GALAH" target="campari" />
+    <edge source="THE GALAH" target="creme de banane" />
+    <edge source="THE GALAH" target="pineapple juice" />
+    <edge source="THE GALAH" target="lime juice" />
+    <edge source="QUICK-SAND" target="black sambuca" />
+    <edge source="QUICK-SAND" target="orange juice" />
+    <edge source="TEQUILA SOUR" target="tequila" />
+    <edge source="TEQUILA SOUR" target="lemon" />
+    <edge source="TEQUILA SOUR" target="powdered sugar" />
+    <edge source="TEQUILA SOUR" target="cherry" />
+    <edge source="HALLOWEEN PUNCH" target="cherry juice" />
+    <edge source="HALLOWEEN PUNCH" target="orange peel" />
+    <edge source="HALLOWEEN PUNCH" target="red chili flakes" />
+    <edge source="HALLOWEEN PUNCH" target="cloves" />
+    <edge source="HALLOWEEN PUNCH" target="ginger" />
+    <edge source="HALLOWEEN PUNCH" target="vodka" />
+    <edge source="SWEET BANANAS" target="milk" />
+    <edge source="SWEET BANANAS" target="banana" />
+    <edge source="SWEET BANANAS" target="honey" />
+    <edge source="KOOL-AID SHOT" target="vodka" />
+    <edge source="KOOL-AID SHOT" target="amaretto" />
+    <edge source="KOOL-AID SHOT" target="sloe gin" />
+    <edge source="KOOL-AID SHOT" target="triple sec" />
+    <edge source="KOOL-AID SHOT" target="cranberry juice" />
+    <edge source="BOOMERANG" target="gin" />
+    <edge source="BOOMERANG" target="dry vermouth" />
+    <edge source="BOOMERANG" target="bitters" />
+    <edge source="BOOMERANG" target="maraschino liqueur" />
+    <edge source="BOOMERANG" target="maraschino cherry" />
+    <edge source="MICHELADA" target="beer" />
+    <edge source="MICHELADA" target="tomato juice" />
+    <edge source="MICHELADA" target="lime juice" />
+    <edge source="MICHELADA" target="hot sauce" />
+    <edge source="MICHELADA" target="worcestershire sauce" />
+    <edge source="MICHELADA" target="soy sauce" />
+    <edge source="CORN N OIL" target="lime" />
+    <edge source="CORN N OIL" target="falernum" />
+    <edge source="CORN N OIL" target="angostura bitters" />
+    <edge source="CORN N OIL" target="añejo rum" />
+    <edge source="CORN N OIL" target="blackstrap rum" />
+    <edge source="EGG-NOG - CLASSIC COOKED" target="egg" />
+    <edge source="EGG-NOG - CLASSIC COOKED" target="sugar" />
+    <edge source="EGG-NOG - CLASSIC COOKED" target="salt" />
+    <edge source="EGG-NOG - CLASSIC COOKED" target="milk" />
+    <edge source="EGG-NOG - CLASSIC COOKED" target="vanilla extract" />
+    <edge source="FRENCH 75" target="gin" />
+    <edge source="FRENCH 75" target="sugar" />
+    <edge source="FRENCH 75" target="lemon juice" />
+    <edge source="FRENCH 75" target="champagne" />
+    <edge source="FRENCH 75" target="orange" />
+    <edge source="FRENCH 75" target="maraschino cherry" />
+    <edge source="AFTERGLOW" target="grenadine" />
+    <edge source="AFTERGLOW" target="orange juice" />
+    <edge source="AFTERGLOW" target="pineapple juice" />
+    <edge source="LASSI - MANGO" target="mango" />
+    <edge source="LASSI - MANGO" target="yoghurt" />
+    <edge source="LASSI - MANGO" target="sugar" />
+    <edge source="LASSI - MANGO" target="water" />
+    <edge source="ZORRO" target="sambuca" />
+    <edge source="ZORRO" target="baileys irish cream" />
+    <edge source="ZORRO" target="white creme de menthe" />
+    <edge source="BIJOU" target="orange bitters" />
+    <edge source="BIJOU" target="green chartreuse" />
+    <edge source="BIJOU" target="gin" />
+    <edge source="BIJOU" target="sweet vermouth" />
+    <edge source="THE LAVERSTOKE" target="gin" />
+    <edge source="THE LAVERSTOKE" target="elderflower cordial" />
+    <edge source="THE LAVERSTOKE" target="rosso vermouth" />
+    <edge source="THE LAVERSTOKE" target="tonic water" />
+    <edge source="THE LAVERSTOKE" target="lime" />
+    <edge source="THE LAVERSTOKE" target="ginger" />
+    <edge source="THE LAVERSTOKE" target="mint" />
+    <edge source="MIMOSA" target="champagne" />
+    <edge source="MIMOSA" target="orange juice" />
+    <edge source="IRISH RUSSIAN" target="vodka" />
+    <edge source="IRISH RUSSIAN" target="kahlua" />
+    <edge source="IRISH RUSSIAN" target="coca-cola" />
+    <edge source="IRISH RUSSIAN" target="guinness stout" />
+    <edge source="CASINO" target="gin" />
+    <edge source="CASINO" target="maraschino liqueur" />
+    <edge source="CASINO" target="lemon juice" />
+    <edge source="CASINO" target="orange bitters" />
+    <edge source="CASINO" target="cherry" />
+    <edge source="VODKA AND TONIC" target="vodka" />
+    <edge source="VODKA AND TONIC" target="tonic water" />
+    <edge source="MUDSLINGER" target="southern comfort" />
+    <edge source="MUDSLINGER" target="orange juice" />
+    <edge source="MUDSLINGER" target="pepsi cola" />
+    <edge source="CORPSE REVIVER" target="gin" />
+    <edge source="CORPSE REVIVER" target="triple sec" />
+    <edge source="CORPSE REVIVER" target="lillet blanc" />
+    <edge source="CORPSE REVIVER" target="lemon juice" />
+    <edge source="CORPSE REVIVER" target="absinthe" />
+    <edge source="THAI ICED TEA" target="tea" />
+    <edge source="THAI ICED TEA" target="water" />
+    <edge source="THAI ICED TEA" target="condensed milk" />
+    <edge source="THAI ICED TEA" target="ice" />
+    <edge source="THAI ICED TEA" target="mint" />
+    <edge source="QUENTIN" target="dark rum" />
+    <edge source="QUENTIN" target="kahlua" />
+    <edge source="QUENTIN" target="light cream" />
+    <edge source="QUENTIN" target="nutmeg" />
+    <edge source="LOCH LOMOND" target="scotch" />
+    <edge source="LOCH LOMOND" target="drambuie" />
+    <edge source="LOCH LOMOND" target="dry vermouth" />
+    <edge source="LOCH LOMOND" target="lemon peel" />
+    <edge source="FRENCH NEGRONI" target="gin" />
+    <edge source="FRENCH NEGRONI" target="lillet" />
+    <edge source="FRENCH NEGRONI" target="sweet vermouth" />
+    <edge source="FRENCH NEGRONI" target="orange peel" />
+    <edge source="ZIPPERHEAD" target="chambord raspberry liqueur" />
+    <edge source="ZIPPERHEAD" target="vodka" />
+    <edge source="ZIPPERHEAD" target="soda water" />
+    <edge source="RUM SOUR" target="light rum" />
+    <edge source="RUM SOUR" target="lemon juice" />
+    <edge source="RUM SOUR" target="sugar" />
+    <edge source="RUM SOUR" target="orange" />
+    <edge source="RUM SOUR" target="maraschino cherry" />
+    <edge source="GIN DAISY" target="gin" />
+    <edge source="GIN DAISY" target="lemon juice" />
+    <edge source="GIN DAISY" target="sugar" />
+    <edge source="GIN DAISY" target="grenadine" />
+    <edge source="GIN DAISY" target="maraschino cherry" />
+    <edge source="GIN DAISY" target="orange" />
+    <edge source="TEQUILA FIZZ" target="tequila" />
+    <edge source="TEQUILA FIZZ" target="lemon juice" />
+    <edge source="TEQUILA FIZZ" target="grenadine" />
+    <edge source="TEQUILA FIZZ" target="egg white" />
+    <edge source="TEQUILA FIZZ" target="ginger ale" />
+    <edge source="THAI ICED COFFEE" target="coffee" />
+    <edge source="THAI ICED COFFEE" target="sugar" />
+    <edge source="THAI ICED COFFEE" target="cream" />
+    <edge source="THAI ICED COFFEE" target="cardamom" />
+    <edge source="LONG ISLAND TEA" target="vodka" />
+    <edge source="LONG ISLAND TEA" target="light rum" />
+    <edge source="LONG ISLAND TEA" target="gin" />
+    <edge source="LONG ISLAND TEA" target="tequila" />
+    <edge source="LONG ISLAND TEA" target="lemon" />
+    <edge source="LONG ISLAND TEA" target="coca-cola" />
+    <edge source="MORANGUITO" target="absinthe" />
+    <edge source="MORANGUITO" target="tequila" />
+    <edge source="MORANGUITO" target="grenadine" />
+    <edge source="ORANGE SCENTED HOT CHOCOLATE" target="milk" />
+    <edge source="ORANGE SCENTED HOT CHOCOLATE" target="chocolate" />
+    <edge source="ORANGE SCENTED HOT CHOCOLATE" target="orange peel" />
+    <edge source="ORANGE SCENTED HOT CHOCOLATE" target="espresso" />
+    <edge source="ORANGE SCENTED HOT CHOCOLATE" target="nutmeg" />
+    <edge source="CREAM SODA" target="spiced rum" />
+    <edge source="CREAM SODA" target="ginger ale" />
+  </graph>
+</graphml>
